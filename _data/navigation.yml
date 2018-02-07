@@ -1,5 +1,5 @@
 main:
-  - title: "About the project"
+  - title: "About"
     url: /about/
   - title: "Events"
     url: /events/
