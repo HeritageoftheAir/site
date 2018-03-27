@@ -1,12 +1,14 @@
 ---
 layout: single
-permalink: /events/aviation-cultures-4
+permalink: /events/aviation-cultures-4/
 title: Aviation Cultures Mk IV
 ---
 
-## Transitions &middot; Connections &middot; Communities
+## Transitions &middot; Communities &middot; Global Networks<br> <small>28 November to 1 December 2018</small>
 
-Is endless change a defining characteristic of aviation? If so, how many transitions have been positive – and how many were negative? Indeed, how can we evaluate the impact of these ups and downs, and who is best placed to judge?
+Change is a defining characteristic of aviation. Since the early twentieth century new technologies have shaped the course of civil and military aviation and today in times of pressing issues such as cyber security, global warming and increasingly mobile populations the aviation industry has had to respond to these transitions. How many transitions have been positive – and how many were negative? Indeed, how can we evaluate the impact of these ups and downs, and who is best placed to judge?
+
+[![Save the date poster](/assets/images/Aviation Cultures Mk IV - save the date.png){: .align-center}](/assets/pdfs/Aviation Cultures Mk IV - save the date.pdf "Download PDF version of this poster")
 
 ### International appeal
 
@@ -22,7 +24,7 @@ A special focus of this conference will be a half-day symposium exploring the qu
 
 ### Venues and tours
 
-The main conference will be held at the University of Sydney, located near the centre of Sydney, one of Australia’s main international hubs. More details about the location, accommodation and travel necessities will be added as the meeting approaches. Stand by for details about the location of the special symposium, and our post-conference aviation-themed tour
+The main conference will be held at the University of Sydney, located near the centre of Sydney, one of Australia’s main international hubs. More details about the location, accommodation and travel necessities will be added as the meeting approaches. Stand by for details about the location of the special symposium, and our post-conference aviation-themed tour.
 
 ### Call for abstracts and panels
 
@@ -50,7 +52,8 @@ Aviation Cultures Mk IV is being convened by a committee representing a range of
 * Mr Paul Ewoldt – Aviation Historical Society of Australia (NSW)
 * Dr Peter Hobbins – The University of Sydney
 
-For regular updates and relevant theme discussions, join our Twitter feed: #aviationcultures
+For regular updates and relevant theme discussions, join our Twitter feed: [#aviationcultures](https://twitter.com/hashtag/aviationcultures?src=hash)
+
 For specific enquiries, please contact Dr Peter Hobbins, peter.hobbins@sydney.edu.au
 
 ### Sponsorship
