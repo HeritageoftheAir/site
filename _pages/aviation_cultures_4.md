@@ -30,6 +30,8 @@ The main conference will be held at the University of Sydney, located near the c
 
 A formal call for abstracts and panel proposals will be issued by 5 March 2018, with a decision on accepted papers made by the end of that month. Overwhelming feedback from prior meetings has insisted that we retain a single stream of presentations, with no parallel sessions. Therefore speaking places will be limited, but non-presenting participants are most welcome, both as day delegates or for the duration.
 
+[![Call for abstracts](/assets/images/Aviation Cultures Mk IV - call for abstracts.jpg){: .align-center}](/assets/pdfs/Aviation Cultures Mk IV - call for abstracts.pdf "Download PDF version")
+
 ### Costs
 
 In order to encourage accessibility and broad participation, there will be no fee for the main conference sessions. There may be per-head charges for the special symposium and/or the post-conference tour.
