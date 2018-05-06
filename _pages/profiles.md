@@ -58,4 +58,5 @@ Mr Hakim Abdul Rahim is a PhD candidate in cultural heritage at the University o
 
 ### Ms Emily Fry
 
+![Ms Emily Fry](/assets/images/Fry_profilephoto200.png){: .align-left}
 Ms Emily Fry is a digital heritage student in the Faculty of Arts and Design at the University of Canberra. She has previously worked alongside staff at the University and the Museum of Australian Democracy to design the transcription website for _The Real Face of White Australia_. She will be responsible for the design and maintenance of the project’s website.
