@@ -135,12 +135,6 @@ Mr Phil Vabre is the Vice President of the Civil Aviation Historical Society & A
 {: .profilenames}
 <br>
 
-### Mr Hakim Abdul Rahim
-{: .profilenames}
-<br>
-Mr Hakim Abdul Rahim is a PhD candidate in cultural heritage at the University of Canberra’s Centre for Creative and Cultural Research. With a background in science and heritage conservation, he joins the project as research assistant, having previously worked with Associate Professor Ireland on the _Connecting the Nation_ project.
-{: .profiles}
-
 ### Ms Emily Fry
 {: .profilenames}
 <br>
