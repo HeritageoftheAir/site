@@ -128,7 +128,7 @@ Mr Phil Vabre is the Vice President of the Civil Aviation Historical Society & A
 ## Administration
 {: .profilenames}
 
-[Sally Brockwell](#dr-sally-brockwell)&nbsp;&bull; [Hakim Abdul Rahim](#mr-hakim-abdul-rahim)&nbsp;&bull; [Emily Fry](#ms-emily-fry)
+[Sally Brockwell](#dr-sally-brockwell)&nbsp;&bull; [Emily Fry](#ms-emily-fry)
 {: .profilenav}
 
 ### Dr Sally Brockwell
