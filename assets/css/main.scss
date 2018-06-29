@@ -12,10 +12,6 @@
     padding: 8em 0;
 }
 
-.profiles {
-    text-align: justify;
-}
-
 .profilenav {
     text-align: center;
     text-decoration: none;
@@ -24,4 +20,23 @@
 .profilenames {
     text-align: center;
     text-decoration: underline;
+}
+
+.archive__item-title {
+    text-align: center;
+}
+
+.page__hero--overlay .page__lead {
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 0;
+    line-height: 1;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
 }

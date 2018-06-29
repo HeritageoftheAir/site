@@ -12,19 +12,19 @@ header:
 feature_row:
   - image_path: /assets/images/connecting.png
     title: "Connecting the nation"
-    excerpt: "A [digital repository](http://connectingthenation.net.au/) connecting you to dispersed Aviation heritage collections"
+    excerpt: "A digital repository connecting you to dispersed Aviation heritage collections"
     url: http://connectingthenation.net.au/
     btn_label: "Explore"
     btn_class: "btn--info"
   - image_path: /assets/images/ebook.png
     title: "Free ebook"
-    excerpt: "A [short thematic history](https://epress.lib.uts.edu.au/books/connecting-nation) of Australian civil aviation"
+    excerpt: "A short thematic history of Australian civil aviation"
     url: https://epress.lib.uts.edu.au/books/connecting-nation
     btn_label: "Download"
     btn_class: "btn--info"
   - image_path: /assets/images/aviation-cultures.png
     title: "Aviation Cultures IV"
-    excerpt: "The [fourth conference](/events/aviation-cultures-4) in the Aviation Cultures series reaches out across the globe"
+    excerpt: "The fourth conference in the Aviation Cultures series reaches out across the globe"
     url: /events/aviation-cultures-4
     btn_label: "Learn more"
     btn_class: "btn--info"
