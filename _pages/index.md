@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/connecting.png
     title: "Connecting the nation"
     excerpt: "A digital repository connecting you to dispersed Aviation heritage collections"
-    url: http://connectingthenation.net.au/
+    url: https://collections.heritageoftheair.org.au/
     btn_label: "Explore"
     btn_class: "btn--info"
   - image_path: /assets/images/ebook.png

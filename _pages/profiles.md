@@ -13,6 +13,7 @@ permalink: /profiles/
 [Tracy Ireland](#aprof-tracy-ireland)&nbsp;&bull; [Ross Gibson](#prof-ross-gibson)&nbsp;&bull; [Tim Sherratt](#aprof-tim-sherratt)&nbsp;&bull; [Ross Harley](#prof-ross-harley)&nbsp;&bull; [Annie Clarke](#aprof-annie-clarke)&nbsp;&bull; [Peter Hobbins](#dr-peter-hobbins)&nbsp;&bull; [Mitchell Whitelaw](#dr-mitchell-whitelaw)&nbsp;&bull; [Jane Ferguson](#dr-jane-ferguson)
 {: .profilenav}
 
+
 ### A/Prof Tracy Ireland
 {: .profilenames}
 <br>
@@ -97,6 +98,8 @@ Dr Martha Sear is an historian and Senior Curator at the National Museum of Aust
 
 <br>
 
+<br>
+
 ### Miss Jennifer Wilson
 {: .profilenames}
 <br>
@@ -117,16 +120,21 @@ Mr Phil Vabre is the Vice President of the Civil Aviation Historical Society & A
 ## Students
 {: .profilenames}
 
-[Anna Gebbels](#ms-anna-gebbels)&nbsp;&bull; [Ashley Harrison](#ms-ashley-harrison)&nbsp;&bull; [Chris Holden](#mr-chris-holden)&nbsp;&bull; [Jana Samargis-Woods](#ms-jana-samargis-woods)&nbsp;&bull; [Fiona Shanahan](#ms-fiona-shanahan)&nbsp;&bull; [Jessica Western](#ms-jessica-western)
+[Anna Gebels](#ms-anna-gebels)&nbsp;&bull; [Ashley Harrison](#ms-ashley-harrison)&nbsp;&bull; [Chris Holden](#mr-chris-holden)&nbsp;&bull; [Jana Samargis-Woods](#ms-jana-samargis-woods)&nbsp;&bull; [Fiona Shanahan](#ms-fiona-shanahan)&nbsp;&bull; [Jessica Western](#ms-jessica-western)
 {: .profilenav}
 
-### Ms Anna Gebbels
+### Ms Anna Gebels
 {: .profilenames}
 <br>
+![Ms Anna Gebels](/assets/images/profile_images/Gebels_profilephoto200.png){: .align-left}
+Anna Gebels is a PhD candidate at the University of Sydney. Her research is focused on the collected heritage of the Empire Air Training Scheme in Australia in an attempt to ascertain what we have, and what we need in order to tell an inclusive account of the Scheme.
+By day Anna is a museum curator and educator who has worked in quarantine, military aviation and medical museums. By night Anna enjoys singing for and with military veterans, transporting them to yesteryear with the sweet harmonies of the WWII era with her group Davey T and the Aces.
 
 ### Ms Ashley Harrison
 {: .profilenames}
 <br>
+![Ms Ashley Harrison](/assets/images/profile_images/Harrison_profilephoto200.png){: .align-left}
+Ashley completed a Master of Liberal Arts (Visual Culture Research) (Research), after majoring in Undergraduate Anthropology and Psychology, at the Australian National University. For her sub-thesis, Ashley explored the historical and contemporary use of archival images of Aboriginal ancestors taken in the ‘William Henry Corkhill and the Tilba Tilba Collection’ (held at the National Library of Australia). As a Yuin woman with mixed heritage, Ashley is particularly interested in considering cross-cultural intersections and utilising Indigenous research methods. Ashley's PhD project will focus on using archival collections, to find representations of Aboriginal and Torres Strait Islander histories and cultural responses to aviation.
 
 ### Mr Chris Holden
 {: .profilenames}
@@ -137,6 +145,7 @@ Chris Holden is a PhD student in the Faculty of Arts and Design at the Universit
 ### Ms Jana Samargis-Woods
 {: .profilenames}
 <br>
+Jana Samargis-Woods returned to Archaeology and Museum studies after working many years in the corporate sector. She completed a BA/BCom majoring  in Archaeology and Economics at the University of Melbourne. Most recently she completed an MBA (2012) at Melbourne Business School.  She also completed a Graduate Diploma in one of the earliest Museum Studies courses in 1993 at Deakin University. She has had three seasons of practical excavation experience working on an Early Bronze Age site at Marki in Cyprus with Latrobe University as a graduate student. She is thrilled to be returning to research and to be part of the Heritage of the Air project where she will be investigating aviation museum collections in Melbourne.
 
 ### Ms Fiona Shanahan
 {: .profilenames}
@@ -162,4 +171,4 @@ Fiona Shanahan BA (Hons) is an aviation archaeologist based in Australia's Top E
 {: .profilenames}
 <br>
 ![Ms Emily Fry](/assets/images/profile_images/Fry_profilephoto200.png){: .align-left}
-Ms Emily Fry is a digital heritage student in the Faculty of Arts and Design at the University of Canberra. She has previously worked alongside staff at the University and the Museum of Australian Democracy to design the transcription website for _The Real Face of White Australia_. She will be responsible for the design and maintenance of the project’s website.
+Ms Emily Fry is a digital heritage student in the Faculty of Arts and Design at the University of Canberra, set to graduate at the end of 2018. She has previously worked alongside staff at the University and the Museum of Australian Democracy to design the transcription website for _The Real Face of White Australia_. She will be responsible for the design and maintenance of the project’s website.
