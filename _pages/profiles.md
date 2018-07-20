@@ -145,7 +145,8 @@ Chris Holden is a PhD student in the Faculty of Arts and Design at the Universit
 ### Ms Jana Samargis-Woods
 {: .profilenames}
 <br>
-Jana Samargis-Woods returned to Archaeology and Museum studies after working many years in the corporate sector. She completed a BA/BCom majoring  in Archaeology and Economics at the University of Melbourne. Most recently she completed an MBA (2012) at Melbourne Business School.  She also completed a Graduate Diploma in one of the earliest Museum Studies courses in 1993 at Deakin University. She has had three seasons of practical excavation experience working on an Early Bronze Age site at Marki in Cyprus with Latrobe University as a graduate student. She is thrilled to be returning to research and to be part of the Heritage of the Air project where she will be investigating aviation museum collections in Melbourne.
+![Ms Jana Samargis-Woods](/assets/images/profile_images/Samargis-Woods_profilephoto200.png){: .align-left}
+Jana Samargis-Woods returned to Archaeology and Museum studies after working many years in the corporate sector. She completed a BA/BCom majoring in Archaeology and Economics at the University of Melbourne. Most recently she completed an MBA (2012) at Melbourne Business School. She also completed a Graduate Diploma in one of the earliest Museum Studies courses in 1993 at Deakin University. She has had three seasons of practical excavation experience working on an Early Bronze Age site at Marki in Cyprus with Latrobe University as a graduate student. Jana is currently an MA research candidate with the University of Sydney. She is thrilled to be returning to research and to be part of the Heritage of the Air project where she will be investigating aviation museum collections in Melbourne.
 
 ### Ms Fiona Shanahan
 {: .profilenames}
@@ -157,7 +158,7 @@ Fiona Shanahan BA (Hons) is an aviation archaeologist based in Australia's Top E
 {: .profilenames}
 <br>
 ![Ms Jessica Western](/assets/images/profile_images/Western_profilephoto200.png){: .align-left}
-Ms Jessica Western is a PhD candidate in the Faculty of Arts and Design at the University of Canberra. Her research interests include questions of politicisation/depoliticisation and engagement in cultural heritage management, the distinctive relationship between air travel and intangible cultural elements, and the potential offered by digital interpretation techniques. She will work with the Queensland Museum’s aviation collections to establish a context for these through ethnographic and oral history research, as well as examining how digital heritage processes might broaden their cultural impact and contribute to an evolving multi-vocal heritage management practice. 
+Ms Jessica Western is a PhD candidate in the Faculty of Arts and Design at the University of Canberra. Her research interests include questions of politicisation/depoliticisation and engagement in cultural heritage management, the distinctive relationship between air travel and intangible cultural elements, and the potential offered by digital interpretation techniques. She will work with the Queensland Museum’s aviation collections to establish a context for these through ethnographic and oral history research, as well as examining how digital heritage processes might broaden their cultural impact and contribute to an evolving multi-vocal heritage management practice.
 
 ## Administration
 {: .profilenames}

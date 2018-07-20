@@ -18,6 +18,17 @@ This fourth conference in the Aviation Cultures series reaches out across the gl
 
 Our themes are suggestions only, but we hope they prompt lines of inquiry. Have the most important transitions in aviation been technological, environmental, political or cultural? While mass commercial aviation may have fostered connections, do other linkages such as global drone surveillance networks unite or divide us? And much as we may think of remote settlements or airport workers as communities created by aviation, what about the bypassed ‘flyover states’ and ‘fly-in, fly-out’ work sites?  
 
+### Keynote presenters
+We are delighted to welcome two internationally renowned scholars to the conference to share their latest research:
+
+![Dr Alex M Spencer](/assets/images/Spencer.png)
+{: .center}
+[Dr Alex M Spencer](https://airandspace.si.edu/people/staff/alex-spencer) is a curator in the Aeronautics Department at the National Air and Space Museum, Washington DC, USA. His keynote presentation is entitled _"Muddling through: air defence of Australia and New Zealand, 1919–40."_
+
+![Associate Professor Dorthe Gert Simondsen](/assets/images/Simondsen.png)
+{: .center}
+[Associate Professor Dorthe Gert Simondsen](<https://saxoinstitute.ku.dk/staff/?pure=en%2Fpersons%2Fdorthe-gert-simonsen(1c2dd0ab-4e52-4221-b417-4063ede9a0a5)%2Fpublications.html>) is a historian and cultural studies scholar at the Saxo Institute, Copenhagen, Denmark. Her keynote address will be _"Heavier than air: embodying early aviation."_
+
 ### Special symposium: a national aviation collection
 
 A special focus of this conference will be a half-day symposium exploring the question of national aviation collections. Our primary case study will be Australia – where the prospect has been debated for over 40 years – but the symposium will also enlist key practitioners from other nations and related heritage fields. What is the value in shaping a ‘national’ collection, what form might it take, who should administer it, and how can it be sustained?
@@ -62,3 +73,9 @@ For specific enquiries, please contact Dr Peter Hobbins, peter.hobbins@sydney.ed
 We are grateful to our sponsors listed below, and always welcome additional support in the form of funding and/or in-kind assistance with venues, travel, catering and conference giveaways.
 
 ![Sydney University logo](/assets/images/University of Sydney logo BW.png){: .align-center}
+
+![TRCC logo](/assets/images/TRCCLogo.jpg){: .align-center}
+
+![Mustard Group logo](/assets/images/Mustard_Group.png){: .align-center}
+
+![Norton White logo](/assets/images/NortonWhitelogo.jpg){: .align-center}
