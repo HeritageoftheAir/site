@@ -18,6 +18,12 @@ This fourth conference in the Aviation Cultures series reaches out across the gl
 
 Our themes are suggestions only, but we hope they prompt lines of inquiry. Have the most important transitions in aviation been technological, environmental, political or cultural? While mass commercial aviation may have fostered connections, do other linkages such as global drone surveillance networks unite or divide us? And much as we may think of remote settlements or airport workers as communities created by aviation, what about the bypassed ‘flyover states’ and ‘fly-in, fly-out’ work sites?  
 
+### Preliminary programme
+
+The initial programme for Aviation Cultures is available to download here. We have a diverse and fascinating series of presentations on offer, ranging from 5-minute 'Blitz' talks to 45-minute keynotes by our invited international guests, Dr Alex M Spencer from the US National Air and Space Museum, Washington DC, and Dr Dorthe Gert Simondsen from the Saxo Institute, Copenhagen. There is also a panel discussion on the future of aviation cultures and a half-day symposium on the difficult topic of _'A national aviation collection for Australia?'_
+
+[![Preliminary Programme](/assets/images/preliminary_programme.png){: .align-center}](/assets/pdfs/Aviation Cultures Mk IV - draft programme 30 July 2018.pdf "Download PDF version of this poster")
+
 ### Keynote presenters
 We are delighted to welcome two internationally renowned scholars to the conference to share their latest research:
 
@@ -36,12 +42,6 @@ A special focus of this conference will be a half-day symposium exploring the qu
 ### Venues and tours
 
 The main conference will be held at the University of Sydney, located near the centre of Sydney, one of Australia’s main international hubs. More details about the location, accommodation and travel necessities will be added as the meeting approaches. Stand by for details about the location of the special symposium, and our post-conference aviation-themed tour.
-
-### Call for abstracts and panels
-
-A formal call for abstracts and panel proposals will be issued by 5 March 2018, with a decision on accepted papers made by the end of that month. Overwhelming feedback from prior meetings has insisted that we retain a single stream of presentations, with no parallel sessions. Therefore speaking places will be limited, but non-presenting participants are most welcome, both as day delegates or for the duration.
-
-[![Call for abstracts](/assets/images/Aviation Cultures Mk IV - call for abstracts.jpg){: .align-center}](/assets/pdfs/Aviation Cultures Mk IV - call for abstracts.pdf "Download PDF version")
 
 ### Costs
 
