@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-### Forthcoming seminar
+### [Forthcoming seminar](/assets/pdfs/Seminar-Hobbins-2018.pdf)
 {: .profilenames}
 Join archaeology, museum and heritage studies postgraduate students to hear Dr Peter Hobbins ask _'What on earth is the archaeology of airspace?'_. Friday 10 August, 315–515 pm, Quadrangle S223 (History Room), The University of Sydney. 
 {: .center}

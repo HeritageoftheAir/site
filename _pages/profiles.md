@@ -4,7 +4,7 @@ title: Meet The Team
 permalink: /profiles/
 ---
 <br>
-[Chief Investigators](#chief-investigators)&nbsp;&bull; [Partner Investigators](#partner-investigators)&nbsp;&bull; [Students](#students)&nbsp;&bull; [Administration](#administration)
+[Chief Investigators](#chief-investigators)&nbsp;&bull; [Partner Investigators](#partner-investigators)&nbsp;&bull; [Research Scholars](#research-scholars)&nbsp;&bull; [Administration](#administration)
 {: .profilenav}
 
 ## Chief Investigators
@@ -117,7 +117,7 @@ Since 1999, Mr Roger Meyer has been President of the Civil Aviation Historical S
 ![Mr Phil Vabre](/assets/images/profile_images/Vabre_profilephoto200.png){: .align-left}
 Mr Phil Vabre is the Vice President of the Civil Aviation Historical Society & Airways Museum at Essendon airport, one of the Partner Organisations of this project. By profession he is an Air Traffic Controller, with a background in aviation human factors and safety management. He is also a private pilot and owner/custodian of a venerable Cessna that is older than he is. Phil is an amateur historian and is working on a book about Australia's civil Empire flying boats and their bases. He will facilitate project access to the CAHS archives and the collections of the Airways Museum.
 
-## Students
+## Research Scholars
 {: .profilenames}
 
 [Anna Gebels](#ms-anna-gebels)&nbsp;&bull; [Ashley Harrison](#ms-ashley-harrison)&nbsp;&bull; [Chris Holden](#mr-chris-holden)&nbsp;&bull; [Jana Samargis-Woods](#ms-jana-samargis-woods)&nbsp;&bull; [Fiona Shanahan](#ms-fiona-shanahan)&nbsp;&bull; [Jessica Western](#ms-jessica-western)
