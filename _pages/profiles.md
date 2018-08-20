@@ -29,6 +29,7 @@ Professor Ross Gibson is Centenary Professor of Creative and Cultural Research a
 ### A/Prof Tim Sherratt
 {: .profilenames}
 <br>
+Associate Professor Tim Sherratt is an historian in the Faculty of Arts and Design at the University of Canberra who researches the possibilities and politics of digital cultural collections. He is interested in using digital tools to create new cultural experiences and new forms of publication, exploring how digitisation projects change our relationship with the past and digital heritage. He has worked across the cultural heritage sector and have been developing online resources relating to libraries, archives, museums and history since 1993. He will lead Case Study 2: _Take-Off to Touchdown_ and oversee all the digital components of the project, and investigate how digital tools and techniques can be applied to the project’s research themes.
 
 ### Prof Ross Harley
 {: .profilenames}
@@ -39,6 +40,7 @@ Professor Ross Harley is Dean of the Faculty of Art and Design and Chair of Arts
 ### A/Prof Annie Clarke
 {: .profilenames}
 <br>
+![A/Prof Annie Clarke](/assets/images/profile_images/Clarke_profilephoto200.png){: .align-left}
 Associate Professor Annie Clarke is an archaeologist at the University of Sydney and convenor of the Heritage Studies Program in the Faculty of Arts and Social Sciences. Her research interests include the archaeology of Arnhem Land, the archaeology of cross-cultural engagement and colonialism, rock art and mark-making practices, ethnographic collections and objects, community archaeology, narrative and archaeology and heritage. She will analyse aviation material culture held in regional, national and international collections, including Qantas and the SFO Museum at San Francisco Airport, as well as contribute to Case Study 1: _Air Memories_, investigating Indigenous aviation–related art and cultural practice.
 
 ### Dr Peter Hobbins
@@ -62,7 +64,7 @@ Dr Jane Ferguson is an anthropologist and lecturer in the School of Culture, His
 ## Partner Investigators
 {: .profilenames}
 
-[Prudence Black](#dr-prudence-black)&nbsp;&bull; [Paul Ashton](#prof-paul-ashton)&nbsp;&bull; [Brett Holman](#dr-brett-holman)&nbsp;&bull; [Claire Marrison](#dr-claire-marrison)&nbsp;&bull; [Martha Sear](#dr-martha-sear)&nbsp;&bull; [Jennifer Wilson](#miss-jennifer-wilson)&nbsp;&bull; [Roger Meyer](#mr-roger-meyer)&nbsp;&bull; [Phil Vabre](#mr-phil-vabre)
+[Prudence Black](#dr-prudence-black)&nbsp;&bull; [Paul Ashton](#prof-paul-ashton)&nbsp;&bull; [Brett Holman](#dr-brett-holman)&nbsp;&bull; [Claire Marrison](#dr-claire-marrison)&nbsp;&bull; [Martha Sear](#dr-martha-sear)&nbsp;&bull; [Jennifer Wilson](#miss-jennifer-wilson)&nbsp;&bull; [Roger Meyer](#mr-roger-meyer)&nbsp;&bull; [Phil Vabre](#mr-phil-vabre)&nbsp;&bull; [Sally Brockwell](#dr-sally-brockwell)
 {: .profilenav}
 
 ### Dr Prudence Black
@@ -103,6 +105,7 @@ Dr Martha Sear is an historian and Senior Curator at the National Museum of Aust
 ### Miss Jennifer Wilson
 {: .profilenames}
 <br>
+![Miss Jennifer Wilson](/assets/images/profile_images/Wilson_profilephoto200.png){: .align-left}
 Miss Jennifer Wilson is the Senior Curator of Transport, Energy and Science at the Queensland Museum, one of the Partner Organisations of this project. She is based at The Workshops Rail Museum in Ipswich. She has worked across a variety of transport histories in her previous roles as a curator at the National Museum of Australia from 2005 to 2017 and as curator of the Australian Stockman’s Hall of Fame and the Qantas Founders Museum in Longreach. Her research focuses on the connections between people, places and things, seeking to understand and record the stories of objects across time and space. For this project, she will collaborate on collections research, digital data sharing and exhibition development, integrating findings into Case Study 1: _Air Memories_ and Case Study 3: _An Ocean Apart?_
 
 ### Mr Roger Meyer
@@ -116,6 +119,11 @@ Since 1999, Mr Roger Meyer has been President of the Civil Aviation Historical S
 <br>
 ![Mr Phil Vabre](/assets/images/profile_images/Vabre_profilephoto200.png){: .align-left}
 Mr Phil Vabre is the Vice President of the Civil Aviation Historical Society & Airways Museum at Essendon airport, one of the Partner Organisations of this project. By profession he is an Air Traffic Controller, with a background in aviation human factors and safety management. He is also a private pilot and owner/custodian of a venerable Cessna that is older than he is. Phil is an amateur historian and is working on a book about Australia's civil Empire flying boats and their bases. He will facilitate project access to the CAHS archives and the collections of the Airways Museum.
+
+### Dr Sally Brockwell
+{: .profilenames}
+<br>
+Dr Sally Brockwell is an ARC Research Associate attached to the Heritage of the Air Project in the Faculty of Arts and Design at the University of Canberra. She is an archaeologist by training with research interests in the archaeology and cultural heritage of northern Australia and Island South East Asia. She will assist Associate Professor Ireland to coordinate project research activities and, together with Associate Professor Clarke, will investigate cultural material held in regional, national and international aviation collections.
 
 ## Research Scholars
 {: .profilenames}
@@ -162,13 +170,6 @@ Ms Jessica Western is a PhD candidate in the Faculty of Arts and Design at the U
 
 ## Administration
 {: .profilenames}
-
-[Sally Brockwell](#dr-sally-brockwell)&nbsp;&bull; [Emily Fry](#ms-emily-fry)
-{: .profilenav}
-
-### Dr Sally Brockwell
-{: .profilenames}
-<br>
 
 ### Ms Emily Fry
 {: .profilenames}
