@@ -4,10 +4,13 @@ title: News
 permalink: /news/
 ---
 
-### [Aviation Cultures Mk IV - Programme Available](/events/aviation-cultures-4/#preliminary-programme)
+### [Aviation Cultures Mk IV - Registrations Open](https://www.eventbrite.com/e/aviation-cultures-mk-iv-transitions-communities-global-networks-tickets-49448626172)
 {: .profilenames}
-The preliminary programme for the Aviation Cultures Mk IV conference is now available.
+Registrations are now open for the Aviation Cultures Mk IV conference, to be held at the University of Sydney over 28–30 November 2018.
+<br>[View the preliminary programme details.](/events/aviation-cultures-4/#preliminary-programme)
+<br>[View the keynote speaker details.](https://heritageoftheair.org.au/events/aviation-cultures-4/#keynote-presenters)
 {: .center}
+
 
 ### [Aviation heritage panel at archaeology conference](/news/new_ideas_for_old_wars/)
 {: .profilenames}

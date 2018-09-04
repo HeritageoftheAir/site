@@ -8,6 +8,9 @@ title: Aviation Cultures Mk IV
 
 Change is a defining characteristic of aviation. Since the early twentieth century new technologies have shaped the course of civil and military aviation and today in times of pressing issues such as cyber security, global warming and increasingly mobile populations the aviation industry has had to respond to these transitions. How many transitions have been positive – and how many were negative? Indeed, how can we evaluate the impact of these ups and downs, and who is best placed to judge?
 
+## [Registrations are now open via Eventbrite.](https://www.eventbrite.com/e/aviation-cultures-mk-iv-transitions-communities-global-networks-tickets-49448626172)
+<br>
+
 [![Save the date poster](/assets/images/Aviation Cultures Mk IV - save the date.png){: .align-center}](/assets/pdfs/Aviation Cultures Mk IV - save the date.pdf "Download PDF version of this poster")
 
 ### International appeal
@@ -27,13 +30,28 @@ The initial programme for Aviation Cultures is available to download here. We ha
 ### Keynote presenters
 We are delighted to welcome two internationally renowned scholars to the conference to share their latest research:
 
-![Dr Alex M Spencer](/assets/images/Spencer.png)
-{: .center}
-[Dr Alex M Spencer](https://airandspace.si.edu/people/staff/alex-spencer) is a curator in the Aeronautics Department at the National Air and Space Museum, Washington DC, USA. His keynote presentation is entitled _"Muddling through: air defence of Australia and New Zealand, 1919–40."_
+<!--Row 1-->
+<div class="row">
+  <div class="columnkeynote">
+    <div class="card">
+      <img src="http://heritageoftheair.org.au/assets/images/Spencer.png" alt="Dr Alex M Spencer" style="width:100%">
+      <div class="container">
+        <h2><a href="https://airandspace.si.edu/people/staff/alex-spencer">Dr Alex M Spencer</a></h2>
+        <p>Dr Alex M Spencer is a curator in the Aeronautics Department at the National Air and Space Museum, Washington DC, USA. His keynote presentation is entitled "Muddling through: air defence of Australia and New Zealand, 1919–40."</p>
+      </div>
+    </div>
+  </div>
 
-![Associate Professor Dorthe Gert Simondsen](/assets/images/Simondsen.png)
-{: .center}
-[Associate Professor Dorthe Gert Simondsen](<https://saxoinstitute.ku.dk/staff/?pure=en%2Fpersons%2Fdorthe-gert-simonsen(1c2dd0ab-4e52-4221-b417-4063ede9a0a5)%2Fpublications.html>) is a historian and cultural studies scholar at the Saxo Institute, Copenhagen, Denmark. Her keynote address will be _"Heavier than air: embodying early aviation."_
+  <div class="columnkeynote">
+    <div class="card">
+    <img src="http://heritageoftheair.org.au/assets/images/Simondsen.png" alt="Associate Professor Dorthe Gert Simondsen" style="width:100%">
+    <div class="container">
+        <h2><a href="https://saxoinstitute.ku.dk/staff/?pure=en%2Fpersons%2Fdorthe-gert-simonsen(1c2dd0ab-4e52-4221-b417-4063ede9a0a5)%2Fpublications.html">Associate Professor Dorthe Gert Simondsen</a></h2>
+        <p>Associate Professor Dorthe Gert Simondsen is a historian and cultural studies scholar at the Saxo Institute, Copenhagen, Denmark. Her keynote address will be "Heavier than air: embodying early aviation."</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ### Special symposium: a national aviation collection
 
