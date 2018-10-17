@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Jennifer Wilson
-permalink: /profiles/JenniferWilson
+permalink: /profiles/JenniferWilson/
 ---
 <br>
 ![Miss Jennifer Wilson](/assets/images/profile_images/Wilson_profilephoto200.png){: .align-left}

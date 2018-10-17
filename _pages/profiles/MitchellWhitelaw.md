@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Mitchell Whitelaw
-permalink: /profiles/MitchellWhitelaw
+permalink: /profiles/MitchellWhitelaw/
 ---
 <br>
 ![Dr Mitchell Whitelaw](/assets/images/profile_images/Whitelaw_profilephoto200.png){: .align-left}

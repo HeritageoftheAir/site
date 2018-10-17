@@ -1,7 +1,7 @@
 ---
 layout: since
 title: Jessica Western
-permalink: /profiles/JessicaWestern
+permalink: /profiles/JessicaWestern/
 ---
 <br>
 ![Ms Jessica Western](/assets/images/profile_images/Western_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tim Sherratt
-permalink: /profiles/TimSherratt
+permalink: /profiles/TimSherratt/
 ---
 <br>
 ![A/Prof Tim Sherratt](/assets/images/profile_images/Sherratt_profilephoto200.png){: .align-left}

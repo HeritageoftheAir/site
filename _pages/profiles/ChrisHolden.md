@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Chris Holden
-permalink: /profiles/ChrisHolden
+permalink: /profiles/ChrisHolden/
 ---
 <br>
 ![Mr Chris Holden](/assets/images/profile_images/Holden_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Annie Clarke
-permalink: /profiles/AnnieClarke
+permalink: /profiles/AnnieClarke/
 ---
 <br>
 ![A/Prof Annie Clarke](/assets/images/profile_images/Clarke_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ross Gibson
-permalink: /profiles/RossGibson
+permalink: /profiles/RossGibson/
 ---
 <br>
 ![Prof Ross Gibson](/assets/images/profile_images/Gibson_profilephoto200.png){: .align-left}

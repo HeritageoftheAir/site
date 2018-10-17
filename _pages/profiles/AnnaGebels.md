@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Anna Gebels
-permalink: /profiles/AnnaGebels
+permalink: /profiles/AnnaGebels/
 ---
 <br>
 ![Ms Anna Gebels](/assets/images/profile_images/Gebels_profilephoto200.png){: .align-left}

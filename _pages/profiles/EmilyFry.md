@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Emily Fry
-permalink: /profiles/EmilyFry
+permalink: /profiles/EmilyFry/
 ---
 <br>
 ![Ms Emily Fry](/assets/images/profile_images/Fry_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Prudence Black
-permalink: /profiles/PrudenceBlack
+permalink: /profiles/PrudenceBlack/
 ---
 <br>
 ![Dr Prudence Black](/assets/images/profile_images/Black_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Phil Vabre
-permalink: /profiles/PhilVabre
+permalink: /profiles/PhilVabre/
 ---
 <br>
 ![Mr Phil Vabre](/assets/images/profile_images/Vabre_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ross Harley
-permalink: /profiles/RossHarley
+permalink: /profiles/RossHarley/
 ---
 <br>
 ![Prof Ross Harley](/assets/images/profile_images/Harley_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Sally Brockwell
-permalink: /profiles/SallyBrockwell
+permalink: /profiles/SallyBrockwell/
 ---
 <br>
 ![Dr Sally Brockwell](/assets/images/profile_images/Brockwell_profilephoto200.png){: .align-left}

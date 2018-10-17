@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ashley Harrison
-permalink: /profiles/AshleyHarrison
+permalink: /profiles/AshleyHarrison/
 ---
 <br>
 ![Ms Ashley Harrison](/assets/images/profile_images/Harrison_profilephoto200.png){: .align-left}

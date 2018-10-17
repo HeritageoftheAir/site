@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Claire Marrison
-permalink: /profiles/ClaireMarrison
+permalink: /profiles/ClaireMarrison/
 ---
 <br>
 ![Dr Claire Marrison](/assets/images/profile_images/Marrison_profilephoto200.png){: .align-left}

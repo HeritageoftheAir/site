@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Roger Meyer
-permalink: /profiles/RogerMeyer
+permalink: /profiles/RogerMeyer/
 ---
 <br>
 ![Mr Roger Meyer](/assets/images/profile_images/Meyer_profilephoto200.png){: .align-left}

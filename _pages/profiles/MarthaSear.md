@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Martha Sear
-permalink: /profiles/MarthaSear
+permalink: /profiles/MarthaSear/
 ---
 <br>
 ![Dr Martha Sear](/assets/images/profile_images/Sear_profilephoto200.png){: .align-left}

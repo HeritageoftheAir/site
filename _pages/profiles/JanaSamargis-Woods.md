@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Jana Samargis-Woods
-permalink: /profiles/JanaSamargis-Woods
+permalink: /profiles/JanaSamargis-Woods/
 ---
 <br>
 ![Ms Jana Samargis-Woods](/assets/images/profile_images/Samargis-Woods_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Peter Hobbins
-permalink: /profiles/PeterHobbins
+permalink: /profiles/PeterHobbins/
 ---
 
 <br>

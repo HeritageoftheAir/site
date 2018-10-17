@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tracy Ireland
-permalink: /profiles/TracyIreland
+permalink: /profiles/TracyIreland/
 ---
 <br>
 ![Prof Tracy Ireland](/assets/images/profile_images/Ireland_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Paul Ashton
-permalink: /profiles/PaulAshton
+permalink: /profiles/PaulAshton/
 ---
 <br>
 ![Prof Paul Ashton](/assets/images/profile_images/Ashton_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: since
 title: Fiona Shanahan
-permalink: /profiles/FionaShanahan
+permalink: /profiles/FionaShanahan/
 ---
 <br>
 ![Ms Fiona Shanahan](/assets/images/profile_images/Shanahan_profilephoto200.png){: .align-left}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Jane Ferguson
-permalink: /profiles/JaneFerguson
+permalink: /profiles/JaneFerguson/
 ---
 <br>
 ![Dr Jane Ferguson](/assets/images/profile_images/Ferguson_profilephoto200.png){: .align-left}
