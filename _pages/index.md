@@ -22,10 +22,10 @@ feature_row:
     url: https://epress.lib.uts.edu.au/books/connecting-nation
     btn_label: "Download"
     btn_class: "btn--info"
-  - image_path: /assets/images/aviation-cultures.png
-    title: "Aviation Cultures IV"
-    excerpt: "The fourth conference in the Aviation Cultures series reaches out across the globe"
-    url: /events/aviation-cultures-4
+  - image_path: /assets/images/Heritage-of-the-Air-2019.png
+    title: "Heritage of the Air 2019"
+    excerpt: "The fifth conference in the Aviation Cultures series."
+    url: /events/heritage-of-the-air-2019
     btn_label: "Learn more"
     btn_class: "btn--info"
 ---

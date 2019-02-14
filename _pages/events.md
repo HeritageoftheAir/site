@@ -3,25 +3,11 @@ layout: single
 title: Events
 permalink: /events/
 ---
-### [Airways Museum Open Day](http://www.airwaysmuseum.com/)
+### [Heritage of the Air 2019](/events/heritage-of-the-air-2019)
 {: .profilenames}
-#### 17 November 2018
+#### 24-17 November 2019
 {: .center}
-Visit the Airways Museum at Melbourne's Essendon Airport on 17 November 2018 for an open day focused on the 80th anniversary of the Empire Air Mail Scheme. For more information see their [Media Release](/assets/pdfs/MediaRelease-CAHSExhibition2018.pdf) and [Poster](/assets/images/CAHS-Open-Day-2018-poster-800.jpg).
-{: .center}
-
-### [Aviation Cultures IV](/events/aviation-cultures-4)
-{: .profilenames}
-#### 28 November to 1 December 2018
-{: .center}
-This fourth conference in the Aviation Cultures series, being held from the 28th of November to the 1st of December 2018, reaches out across the globe. Expanding our previous national and regional focus, we welcome scholars, industry figures and community practitioners from around the world.
-{: .center}
-
-### Forthcoming talk
-{: .profilenames}
-#### 5 February 2019
-{: .center}
-Dr Peter Hobbins will be presenting to Kensington Combined Probus on _“The flying club: what plane crashes tell us about local life at Mascot Aerodrome”_, South Sydney Junior Leagues Club, 11 am on 5 February 2019.
+This fifth conference in the Aviation Cultures series, being held from the 14th-17th November 2019 in Canberra, addresses concepts of aviation culture, history, heritage and design in Australia and the region.
 {: .center}
 
 ### Forthcoming talk
@@ -69,4 +55,25 @@ Nearly 100 local residents joined Dr Peter Hobbins on 8 September 2018 for his H
 {: .center}
 Wednesday 10 October, 12 noon at the Airways Museum
 Phil Vabre, Vice-President CAHS presented on _Another D.H.86 down: the Lepena accident on Hunter Island._
+{: .center}
+
+### [Airways Museum Open Day](http://www.airwaysmuseum.com/)
+{: .profilenames}
+#### 17 November 2018
+{: .center}
+Visit the Airways Museum at Melbourne's Essendon Airport on 17 November 2018 for an open day focused on the 80th anniversary of the Empire Air Mail Scheme. For more information see their [Media Release](/assets/pdfs/MediaRelease-CAHSExhibition2018.pdf) and [Poster](/assets/images/CAHS-Open-Day-2018-poster-800.jpg).
+{: .center}
+
+### [Aviation Cultures IV](/events/aviation-cultures-4)
+{: .profilenames}
+#### 28 November to 1 December 2018
+{: .center}
+This fourth conference in the Aviation Cultures series, being held from the 28th of November to the 1st of December 2018, reaches out across the globe. Expanding our previous national and regional focus, we welcome scholars, industry figures and community practitioners from around the world.
+{: .center}
+
+### Past talk
+{: .profilenames}
+#### 5 February 2019
+{: .center}
+Dr Peter Hobbins will be presenting to Kensington Combined Probus on _“The flying club: what plane crashes tell us about local life at Mascot Aerodrome”_, South Sydney Junior Leagues Club, 11 am on 5 February 2019.
 {: .center}
