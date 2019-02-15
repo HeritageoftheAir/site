@@ -5,7 +5,7 @@ permalink: /events/
 ---
 ### [Heritage of the Air 2019](/events/heritage-of-the-air-2019)
 {: .profilenames}
-#### 24-17 November 2019
+#### 14-17 November 2019
 {: .center}
 This fifth conference in the Aviation Cultures series, being held from the 14th-17th November 2019 in Canberra, addresses concepts of aviation culture, history, heritage and design in Australia and the region.
 {: .center}
