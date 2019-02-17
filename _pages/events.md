@@ -7,7 +7,7 @@ permalink: /events/
 {: .profilenames}
 #### 14-17 November 2019
 {: .center}
-This fifth conference in the Aviation Cultures series, being held from the 14th-17th November 2019 in Canberra, addresses concepts of aviation culture, history, heritage and design in Australia and the region.
+The fifth conference in the Aviation Cultures series is being held from the 14th-17th November 2019, in Canberra. In partnership with Australia ICOMOS, Canberra Modern and the ICOMOS International Scientific Committee on 20th Century Heritage, the Heritage of the Air conference will address concepts around aviation culture and history, heritage and design in Australia and the region.
 {: .center}
 
 ### Forthcoming talk

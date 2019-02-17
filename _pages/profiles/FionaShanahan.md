@@ -1,5 +1,5 @@
 ---
-layout: since
+layout: single
 title: Fiona Shanahan
 permalink: /profiles/FionaShanahan/
 ---

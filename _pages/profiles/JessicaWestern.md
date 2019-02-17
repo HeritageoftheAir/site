@@ -1,5 +1,5 @@
 ---
-layout: since
+layout: single
 title: Jessica Western
 permalink: /profiles/JessicaWestern/
 ---

@@ -157,18 +157,3 @@ body {
 </div>
 
 </div>
-
-<br/>
-<h2 class="center">Administration</h2>
-
-<div class="row">
-
-<div class="column card">
-  <img class="profileimg" src="http://heritageoftheair.org.au/assets/images/profile_images/Fry_profilephoto200.png" alt="Emily Fry" style="width:100%">
-  <h1 class="smallfont">Ms Emily Fry</h1>
- <p><a href="http://www.heritageoftheair.org.au/profiles/EmilyFry"><button class="button">View profile</button></a></p>
-</div>
-
-</div>
-
-</body>
