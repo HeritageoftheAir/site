@@ -15,7 +15,7 @@ This conference will attract a diverse range of delegates from academia, industr
 ## [Call for Sessions and Workshops is now open.](/assets/pdfs/Call for Sessions and Workshops - Heritage of the Air 2019.pdf)
 <br>
 
-[![Save the date poster](/assets/images/Heritage of the Air 2019 - flyer.png){: .align-center}](/assets/pdfs/Heritage of the Air 2019 Flyer.pdf "Download PDF version of this poster")
+[![Save the date poster](/assets/images/Heritage of the Air 2019 Flyer.png){: .align-center}](/assets/pdfs/Heritage of the Air 2019 Flyer.pdf "Download PDF version of this poster")
 
 ## Conference Partners
 
