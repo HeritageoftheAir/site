@@ -12,14 +12,11 @@ The ‘Heritage of the Air’ conference, organised by the Heritage of the Air A
 
 In line with the overall conference themes: ‘Modernism, Machines, Migration and Memories’ we invite sessions addressing concepts of aviation culture, history, heritage and design in Australia and the region, broadly interpreted.
 
-<br/>[View the Call for Sessions and Workshops](/assets/pdfs/Call for Sessions and Workshops - Heritage of the Air 2019.pdf)
-
-### [Aviation Cultures Mk IV - Fully Booked!](https://www.eventbrite.com/e/aviation-cultures-mk-iv-transitions-communities-global-networks-tickets-49448626172)
+### [Aviation Cultures Mk IV - Fully Booked!](/events/aviation-cultures-4/)
 {: .profilenames}
-The Aviation Cultures Mk IV conference, to be held at the University of Sydney over 28–30 November 2018, is now fully booked. Follow the link to add your name to the waitlist. <br/>The conference will be held at the University of Sydney over 28–30 November 2018.
+The Aviation Cultures Mk IV conference, to be held at the University of Sydney over 28–30 November 2018, is now fully booked. Follow the link to add your name to the waitlist.
 
-<br/>[View the preliminary programme details.](/events/aviation-cultures-4/#preliminary-programme)
-<br/>[View the keynote speaker details.](https://heritageoftheair.org.au/events/aviation-cultures-4/#keynote-presenters)
+The conference will be held at the University of Sydney over 28–30 November 2018.
 
 ### [Aviation heritage panel at archaeology conference](/news/new_ideas_for_old_wars/)
 {: .profilenames}

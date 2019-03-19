@@ -10,3 +10,8 @@ The project is based at the University of Canberra and our research partners inc
 
 ![ARC logo](/assets/images/arc.png){: .align-right}
 This research was supported by the Australian Government through the Australian Research Council's Linkage Projects funding scheme (project LP160101232).
+
+Twitter: [@air_heritage](https://twitter.com/air_heritage)
+
+Email: <mailto:heritageoftheair1@gmail.com>
+
