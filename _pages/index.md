@@ -35,3 +35,8 @@ Heritage of the Air is a three year Australian Research Council Linkage project 
 The project is based at the University of Canberra and our research partners include Airservices Australia, the National Museum of Australia, the SFO Museum in San Francisco and the Civil Aviation Historical Society. Academic investigators are based at the ANU, University of Sydney, UNSW, and UNE.
 
 {% include feature_row %}
+
+{: .justify}
+The Heritage of the Air ARC Linkage project acknowledges the traditional owners of Country throughout Australia.  
+We pay our respects to elders past and present.
+{: .justify}
