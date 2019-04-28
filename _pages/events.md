@@ -36,7 +36,8 @@ From 700-900 pm, the Cape Banks Family History Society will host a talk by Dr Pe
 {: .center}
 #### 10 May 2019
 {: .center}
-Theme TBA. Watch the website or Facebook for details!
+
+![Airways Museum Film Night](/assets/images/Airways Museum Film Night.jpg)
 
 
 

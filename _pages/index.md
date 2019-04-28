@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/Heritage-of-the-Air-2019.png
     title: "Heritage of the Air 2019"
     excerpt: "The fifth conference in the Aviation Cultures series."
-    url: /events/heritage-of-the-air-2019
+    url: https://www.aicomos.com/
     btn_label: "Learn more"
     btn_class: "btn--info"
 ---
