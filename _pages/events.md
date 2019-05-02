@@ -3,7 +3,7 @@ layout: single
 title: Events
 permalink: /events/
 ---
-### [Heritage of the Air 2019](/events/heritage-of-the-air-2019)
+### [Heritage of the Air 2019](https://www.aicomos.com/)
 {: .profilenames}
 {: .center}
 #### 14-17 November 2019

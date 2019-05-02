@@ -4,13 +4,25 @@ title: News
 permalink: /news/
 ---
 
-### [Heritage of the Air 2019](/events/heritage-of-the-air-2019/)
+### Heritage of the Air 2019 – Call for papers
 {: .profilenames}
-Heritage of the Air Conference 2019 now calling for sessions!
 
-The ‘Heritage of the Air’ conference, organised by the Heritage of the Air ARC Linkage project in partnership with Australia ICOMOS, Aviation Cultures, Canberra Modern and the ICOMOS International Scientific Committee on 20th Century Heritage, is now happy to announce its call for session and workshop proposals.
+The [Heritage of the Air conference](https://www.aicomos.com/), to be held from the 14–17 November 2019, at University House in Canberra, is now inviting submissions for papers!
 
-In line with the overall conference themes: ‘Modernism, Machines, Migration and Memories’ we invite sessions addressing concepts of aviation culture, history, heritage and design in Australia and the region, broadly interpreted.
+You are invited to submit your abstracts for papers for the conference sessions **by 17 May 2019**.
+
+The main themes for the 2019 Heritage of the Air Conference are:
+
+* Modernism
+* Machines
+* Migration
+* Memories
+
+Abstracts can relate to one or more of the conference themes and link to one of the conference sessions. A full list of the proposed conference sessions, including a general session, [can be found here](https://www.aicomos.com/program/conference-sessions/).
+
+Please follow instructions to complete your paper abstract [submission here](https://www.aicomos.com/program/call-for-papers/). 
+
+Please email ashley.harrison@canberra.edu.au if you have questions about the conference and this process.
 
 ### [Aviation Cultures Mk IV - Fully Booked!](/events/aviation-cultures-4/)
 {: .profilenames}
