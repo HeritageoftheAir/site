@@ -21,7 +21,7 @@ body {
 
 <div class="column card">
   <img class="profileimg" src="http://heritageoftheair.org.au/assets/images/profile_images/Ireland_profilephoto200.png" alt="Tracy Ireland" style="width:100%">
-  <h1 class="smallfont">Associate Professor Tracy Ireland</h1>
+  <h1 class="smallfont">Professor Tracy Ireland</h1>
   <p><a href="http://www.heritageoftheair.org.au/profiles/TracyIreland"><button class="button">View profile</button></a></p>
 </div>
 <div class="column card">
@@ -47,7 +47,7 @@ body {
 </div>
 <div class="column card">
   <img class="profileimg" src="http://heritageoftheair.org.au/assets/images/profile_images/Hobbins_profilephoto200.png" alt="Peter Hobbins" style="width:100%">
-  <h1 class="smallfont">JDoctor Peter Hobbins</h1>
+  <h1 class="smallfont">Doctor Peter Hobbins</h1>
  <p><a href="http://www.heritageoftheair.org.au/profiles/PeterHobbins"><button class="button">View profile</button></a></p>
 </div>
 

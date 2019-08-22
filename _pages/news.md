@@ -4,6 +4,13 @@ title: News
 permalink: /news/
 ---
 
+### Project Team Update
+{: .profilenames}
+
+Heritage of the Air Project Investigators and Research Scholars have been busy researching, writing, presenting and travelling around Australia and internationally.
+
+[Click here for further details](/news/project-team-update-201908)
+
 ### Heritage of the Air 2019 – Call for papers
 {: .profilenames}
 

@@ -10,36 +10,19 @@ permalink: /events/
 {: .center}
 The fifth conference in the Aviation Cultures series is being held from the 14th-17th November 2019, in Canberra. In partnership with Australia ICOMOS, Canberra Modern and the ICOMOS International Scientific Committee on 20th Century Heritage, the Heritage of the Air conference will address concepts around aviation culture and history, heritage and design in Australia and the region.
 
-### [Current Exhibition](http://www.airwaysmuseum.com/)
+### [Forthcoming Open Day - Airways Museum](http://www.airwaysmuseum.com/)
+{: .profilenames}
+{: .center}
+#### 16 November 2019
+{: .center } 
+Airways Museum Open Day 10am to 5pm - _Theme: The Great 1919 England-Australia Air Race_
+
+### [Current Exhibition - Airways Museum](http://www.airwaysmuseum.com/)
 {: .profilenames}
 {: .center}
 #### Through to November 2019
 {: .center}
 Australia and the Empire Air Mail Scheme is a photographic display at the Airways Museum. The exhibition runs until November 2019.
-
-### [Forthcoming talk](http://www.airwaysmuseum.com/)
-{: .profilenames}
-{: .center}
-#### 10 April
-{: .center}
-Guest Speaker: Mr John Willis OAM on Gippsland's Air War of 1918
-
-### Forthcoming talk
-{: .profilenames}
-{: .center}
-#### 12 April 2019
-{: .center}
-From 700-900 pm, the Cape Banks Family History Society will host a talk by Dr Peter Hobbins, _"Crashing into history: aircraft accidents and Sydney's past"_, at the Lionel Bowen Library in Maroubra.
-
-### [Film Night](http://www.airwaysmuseum.com/)
-{: .profilenames}
-{: .center}
-#### 10 May 2019
-{: .center}
-
-![Airways Museum Film Night](/assets/images/Airways Museum Film Night.jpg)
-
-
 
 <br>
 
@@ -101,3 +84,25 @@ This fourth conference in the Aviation Cultures series, being held from the 28th
 #### 5 February 2019
 {: .center}
 Dr Peter Hobbins will be presenting to Kensington Combined Probus on _“The flying club: what plane crashes tell us about local life at Mascot Aerodrome”_, South Sydney Junior Leagues Club, 11 am on 5 February 2019.
+
+### [Forthcoming talk](http://www.airwaysmuseum.com/)
+{: .profilenames}
+{: .center}
+#### 10 April
+{: .center}
+Guest Speaker: Mr John Willis OAM on Gippsland's Air War of 1918
+
+### Forthcoming talk
+{: .profilenames}
+{: .center}
+#### 12 April 2019
+{: .center}
+From 700-900 pm, the Cape Banks Family History Society will host a talk by Dr Peter Hobbins, _"Crashing into history: aircraft accidents and Sydney's past"_, at the Lionel Bowen Library in Maroubra.
+
+### [Film Night](http://www.airwaysmuseum.com/)
+{: .profilenames}
+{: .center}
+#### 10 May 2019
+{: .center}
+
+![Airways Museum Film Night](/assets/images/Airways Museum Film Night.jpg)
