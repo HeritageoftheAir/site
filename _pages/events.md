@@ -10,6 +10,13 @@ permalink: /events/
 {: .center}
 The Heritage of the Air Conference will be held from the 14th to 17th of November 2019 at University House, Canberra. The conference will be delivered in partnership with Australia ICOMOS, Airservices, Canberra Modern, Aviation Cultures and the ICOMOS International Scientific Committee on 20th Century Heritage. Conference sessions will explore aviation culture, associated heritage, history and design in Australia and the region.
 
+### [Darwin: Great Air Race Talks Program](https://ntl.nt.gov.au/announcement/celebrating-centenary-great-air-race)
+{: .profilenames}
+{: .center}
+#### October 2019
+{: .center}
+In the lead up to the centenary anniversary of the Great Air Race, the Northern Territory Library is proud to partner with Darwin Aviation Museum and present two talks as part of a five-part series.
+
 ### [Forthcoming Open Day - Airways Museum](http://www.airwaysmuseum.com/)
 {: .profilenames}
 {: .center}
@@ -23,6 +30,15 @@ Airways Museum Open Day 10am to 5pm - _Theme: The Great 1919 England-Australia A
 #### Through to November 2019
 {: .center}
 Australia and the Empire Air Mail Scheme is a photographic display at the Airways Museum. The exhibition runs until November 2019.
+
+### [Current Exhibition - People and Planes: A community view of Sydney Airport](https://www.eventbrite.com.au/e/exhibition-people-and-planes-a-community-view-of-sydney-airport-tickets-64158303212)
+{: .profilenames}
+{: .center}
+#### Through to January 31st 2020
+{: .center}
+As the home of Sydney Airport, the Bayside community has a unique and multilayered history to tell. Come and discover local stories or add your own in our latest exhibition/memory hub.
+
+
 
 <br>
 
