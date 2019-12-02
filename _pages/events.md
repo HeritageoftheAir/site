@@ -4,12 +4,16 @@ title: Events
 permalink: /events/
 ---
 
-### [Current Exhibition - Airways Museum](http://www.airwaysmuseum.com/)
+### [Upcoming Talk - UNSW Sydney](https://www.eventbrite.com.au/e/planetary-social-thought-spiritual-aeromobility-and-the-global-phosphorus-tickets-83756763735)
 {: .profilenames}
 {: .center}
-#### Through to November 2019
+#### 11 December 2019 4-6pm
 {: .center}
-Australia and the Empire Air Mail Scheme is a photographic display at the Airways Museum. The exhibition runs until November 2019.
+Planetary Social Thought: Spiritual Aeromobility and the Global Phosphorus Crisis.
+
+Speaker: Professor Nigel Clark, Lancaster University
+
+[Register here](https://www.eventbrite.com.au/e/planetary-social-thought-spiritual-aeromobility-and-the-global-phosphorus-tickets-83756763735)
 
 ### [Current Exhibition - People and Planes: A community view of Sydney Airport](https://www.eventbrite.com.au/e/exhibition-people-and-planes-a-community-view-of-sydney-airport-tickets-64158303212)
 {: .profilenames}
@@ -29,6 +33,13 @@ The Temora Aviation Museum is built on the site of the biggest and longest lasti
 <br>
 
 # Past Events
+
+### [Past Exhibition - Airways Museum](http://www.airwaysmuseum.com/)
+{: .profilenames}
+{: .center}
+#### Through to November 2019
+{: .center}
+Australia and the Empire Air Mail Scheme is a photographic display at the Airways Museum. The exhibition runs until November 2019.
 
 ### [Heritage of the Air 2019](https://www.aicomos.com/)
 {: .profilenames}
