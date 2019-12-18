@@ -4,17 +4,6 @@ title: Events
 permalink: /events/
 ---
 
-### [Upcoming Talk - UNSW Sydney](https://www.eventbrite.com.au/e/planetary-social-thought-spiritual-aeromobility-and-the-global-phosphorus-tickets-83756763735)
-{: .profilenames}
-{: .center}
-#### 11 December 2019 4-6pm
-{: .center}
-Planetary Social Thought: Spiritual Aeromobility and the Global Phosphorus Crisis.
-
-Speaker: Professor Nigel Clark, Lancaster University
-
-[Register here](https://www.eventbrite.com.au/e/planetary-social-thought-spiritual-aeromobility-and-the-global-phosphorus-tickets-83756763735)
-
 ### [Current Exhibition - People and Planes: A community view of Sydney Airport](https://www.eventbrite.com.au/e/exhibition-people-and-planes-a-community-view-of-sydney-airport-tickets-64158303212)
 {: .profilenames}
 {: .center}
@@ -25,7 +14,6 @@ As the home of Sydney Airport, the Bayside community has a unique and multilayer
 ### [Current Exhibition - Temora Aviation Museum](https://aviationmuseum.com.au/aviation-exhibits/)
 {: .profilenames}
 {: .center}
-
 #### Through to March 2020
 {: .center}
 The Temora Aviation Museum is built on the site of the biggest and longest lasting RAAF Elementary Flying Training School during World War II. 10 EFTS was established in May 1941 and training ceased in May 1945. A total of 2741 pilots were trained on Tiger Moths at Temora.
@@ -33,6 +21,22 @@ The Temora Aviation Museum is built on the site of the biggest and longest lasti
 <br>
 
 # Past Events
+
+### [Upcoming Talk - UNSW Sydney](https://www.eventbrite.com.au/e/planetary-social-thought-spiritual-aeromobility-and-the-global-phosphorus-tickets-83756763735)
+{: .profilenames}
+{: .center}
+#### 11 December 2019 4-6pm
+{: .center}
+Planetary Social Thought: Spiritual Aeromobility and the Global Phosphorus Crisis.
+
+Speaker: Professor Nigel Clark, Lancaster University
+
+### [Past Conference - Heritage of the Air 2019](https://www.aicomos.com/)
+{: .profilenames}
+{: .center}
+#### 14-17 November 2019
+{: .center}
+A conference reflecting on 100 years of aviation culture and history, heritage and design in Australia and the region.
 
 ### [Past Exhibition - Airways Museum](http://www.airwaysmuseum.com/)
 {: .profilenames}

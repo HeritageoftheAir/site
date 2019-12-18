@@ -22,11 +22,11 @@ feature_row:
     url: https://epress.lib.uts.edu.au/books/connecting-nation
     btn_label: "Download"
     btn_class: "btn--info"
-  - image_path: /assets/images/Heritage-of-the-Air-2019.png
-    title: "Heritage of the Air 2019"
-    excerpt: "The fifth conference in the Aviation Cultures series."
-    url: https://www.aicomos.com/
-    btn_label: "Learn more"
+  - image_path: /assets/images/hota-video.png
+    title: "View Video"
+    excerpt: "An introductory video on the heritage of the air project"
+    url: https://www.youtube.com/watch?v=ylxuCnaFa0A
+    btn_label: "Watch"
     btn_class: "btn--info"
 ---
 
