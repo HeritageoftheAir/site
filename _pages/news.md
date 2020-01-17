@@ -4,6 +4,13 @@ title: News
 permalink: /news/
 ---
 
+### [Film Release](/news/out-of-the-blue/)
+{: .profilenames}
+
+Centred on accidents in the vicinity of Sydney’s Mascot Aerodrome, this movie outlines developments in Australian aviation safety from the 1920s to the 1970s. It combines original research, interviews, archival footage and graphic simulations of civilian and military accidents. Presented by historian Dr Peter Hobbins and produced by Steven Pam, it features the collections of Melbourne's Airways Museum. 
+
+[Click here for the film](/news/out-of-the-blue/)
+
 ### Project Team Update
 {: .profilenames}
 

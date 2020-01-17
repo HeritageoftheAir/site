@@ -4,6 +4,17 @@ title: Events
 permalink: /events/
 ---
 
+### [Film Night - Airways Museum](http://www.airwaysmuseum.com/)
+{: .center} 
+
+#### [Out of the blue? How aviation accidents shaped safer skies](/news/out-of-the-blue/)
+{: .profilenames}
+{: .center}
+
+#### 17 January 2020 7pm
+{: .center}
+Centred on accidents in the vicinity of Sydney’s Mascot Aerodrome, this movie outlines developments in Australian aviation safety from the 1920s to the 1970s. It combines original research, interviews, archival footage and graphic simulations of civilian and military accidents. Be the first to see this new production before it goes online! Launched by aviation writer James Kightly, enjoy a Q&A with historian Dr Peter Hobbins and producer Steven Pam, plus historic movies from the museum's collection.
+
 ### [Current Exhibition - People and Planes: A community view of Sydney Airport](https://www.eventbrite.com.au/e/exhibition-people-and-planes-a-community-view-of-sydney-airport-tickets-64158303212)
 {: .profilenames}
 {: .center}
