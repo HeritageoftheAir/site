@@ -67,8 +67,18 @@ The Heritage of the Air Conference will be held from the 14th to 17th of Novembe
 {: .profilenames}
 {: .center}
 #### 16 November 2019
-{: .center } 
+{: .center} 
 Airways Museum Open Day 10am to 5pm - _Theme: The Great 1919 England-Australia Air Race_
+
+### [Archaeology Research Seminar](/assets/pdfs/Archaeology Research Seminar.pdf)
+{: .profilenames}
+{: .center}
+#### 31 October 2019
+{: .center}
+Heritage of the Air: modernities/mobilities/materialities.
+
+A seminar that details how Heritage of the Air, through interdisciplinary approaches, aims to explore the diverse assemblages, identities and communities that have both shaped – and been
+shaped by – Australia’s heritage of the air.
 
 ### [Darwin: Great Air Race Talks Program](https://ntl.nt.gov.au/announcement/celebrating-centenary-great-air-race)
 {: .profilenames}

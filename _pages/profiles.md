@@ -61,6 +61,11 @@ body {
   <h1 class="smallfont">Doctor Jane Ferguson</h1>
  <p><a href="http://www.heritageoftheair.org.au/profiles/JaneFerguson"><button class="button">View profile</button></a></p>
 </div>
+<div class="column card">
+  <img class="profileimg" src="http://heritageoftheair.org.au/assets/images/profile_images/Butler_profilephoto200.png" alt="Ben Ennis Butler" style="width:100%">
+  <h1 class="smallfont">Doctor Ben Ennis Butler</h1>
+  <p><a href="http://www.heritageoftheair.org.au/profiles/BenEnnisButler"><button class="button">View profile</button></a></p>
+</div>
 
 </div>
 
