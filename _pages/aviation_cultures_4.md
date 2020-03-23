@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /events/aviation-cultures-4/
+permalink: /news/aviation-cultures-4/
 title: Aviation Cultures Mk IV
 ---
 

@@ -28,6 +28,24 @@ feature_row:
     url: https://www.youtube.com/watch?v=ylxuCnaFa0A
     btn_label: "Watch"
     btn_class: "btn--info"
+  - image_path: /assets/images/passenger-cards.png
+    title: "Passenger Cards"
+    excerpt: "Historical Incoming Passenger Cards to Australia"
+    url: http://hota.beneb.com/#!/
+    btn_label: "View"
+    btn_class: "btn--info"
+  - image_path: /assets/images/out-of-the-blue.png
+    title: "View Video"
+    excerpt: "Out of the blue? How aviation accidents shaped safer skies"
+    url: https://heritageoftheair.org.au/news/out-of-the-blue/
+    btn_label: "Watch"
+    btn_class: "btn--info"
+  - image_path: /assets/images/Heritage-of-the-Air-2019.png
+    title: "Heritage of the Air 2019"
+    excerpt: "A conference reflecting on 100 years of aviation culture, history, heritage and design."
+    url: https://www.aicomos.com/
+    btn_label: "Explore"
+    btn_class: "btn--info"
 ---
 
 Heritage of the Air is a three year Australian Research Council Linkage project that investigates how aviation has transformed Australian society over the last 100 years. In the lead up to Australia’s centenary of civil aviation, our focus is on people rather than planes and we seek to tell the broader story of diverse Australian communities and aviation. The project aims to engage with the public’s enduring fascination with aviation through innovative analyses and interpretation of little known aviation heritage collections, to produce exciting exhibitions, accessible digital collections and heritage resources, as well as scholarly publications.
