@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/passenger-cards.png
     title: "Passenger Cards"
     excerpt: "Historical Incoming Passenger Cards to Australia"
-    url: http://hota.beneb.com/#!/
+    url: http://hota.beneb.com/
     btn_label: "View"
     btn_class: "btn--info"
   - image_path: /assets/images/out-of-the-blue.png
