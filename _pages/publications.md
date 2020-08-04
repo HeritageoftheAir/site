@@ -17,6 +17,6 @@ Peter Hobbins - [Investigating the social history of aircraft accidents](https:/
 Brett Holman - ['The militarisation of aerial theatre: air displays and airmindedness in Britain and Australia between the World Wars' Contemporary British History](https://doi.org/10.1080/13619462.2018.1519430). Contemporary British History, Volume 33, Issue 4, 2019, pages 483-506.
 {: .left}
 
-Tracy Ireland [The Heritage of the Air Research Project](https://mavic.asn.au/insite/editions?ed=12732). INSITE Magazine. May-July 2018, p. 11. Museum of Victoria, Melbourne
+Tracy Ireland - [The Heritage of the Air Research Project](https://mavic.asn.au/insite/editions?ed=12732). INSITE Magazine. May-July 2018, p. 11. Museum of Victoria, Melbourne
 (accessed 1 June 2018).
 {: .left}
