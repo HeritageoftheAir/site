@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Partner Organisations
+title: Meet the Partners
 permalink: /partners/
 ---
 
