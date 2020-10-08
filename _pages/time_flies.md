@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Time Flies
-permalink: /news/time_flies/
+permalink: /time_flies/
 ---
 
 ### Time Flies! is a travelling exhibition that will mark 100 years of civil aviation in Australia, highlighting unusual objects and stories that explore how aviation transformed everyday life in Austalia’s diverse communities.   

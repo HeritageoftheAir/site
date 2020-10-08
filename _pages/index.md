@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/time-flies.png
     title: "Time Flies!"
     excerpt: "A traveling exhibition that will mark 100 years of civil aviation in Australia."
-    url: https://heritageoftheair.org.au/news/time_flies/
+    url: https://heritageoftheair.org.au/time_flies/
     btn_label: "Explore"
     btn_class: "btn--info"
   - image_path: /assets/images/ebook.png

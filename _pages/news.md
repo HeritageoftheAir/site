@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-### [Time Flies!](https://heritageoftheair.org.au/news/time_flies/)
+### [Time Flies!](https://heritageoftheair.org.au/time_flies/)
 {: .profilenames}
 {: .center}
 #### Ongoing
