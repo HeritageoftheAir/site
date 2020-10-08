@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 
+
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - [Empire of the air: the dawn of international aviation in Australia](https://www.naa.gov.au/blog/empire-air-dawn-international-aviation-australia), National Archives of Australia, 2 July 2020.
 {: .left}
 

@@ -10,10 +10,16 @@ header:
     caption: "Credit: Child-size model of an aeroplane, Queensland, ca. 1925, John Oxley Library, State Library of Queensland, <[https://trove.nla.gov.au/version/47951277](https://trove.nla.gov.au/version/47951277)>"
 
 feature_row:
-  - image_path: /assets/images/connecting.png
-    title: "Connecting the nation"
-    excerpt: "A digital repository connecting you to dispersed Aviation heritage collections"
-    url: https://collections.heritageoftheair.org.au/
+  - image_path: /assets/images/hota-video.png
+    title: "Introductory Video"
+    excerpt: "An introductory video on the heritage of the air project"
+    url: https://www.youtube.com/watch?v=ylxuCnaFa0A
+    btn_label: "Watch"
+    btn_class: "btn--info"
+  - image_path: /assets/images/time-flies.png
+    title: "Time Flies!"
+    excerpt: "A traveling exhibition that will mark 100 years of civil aviation in Australia."
+    url: https://heritageoftheair.org.au/news/time_flies/
     btn_label: "Explore"
     btn_class: "btn--info"
   - image_path: /assets/images/ebook.png
@@ -22,11 +28,29 @@ feature_row:
     url: https://epress.lib.uts.edu.au/books/connecting-nation
     btn_label: "Download"
     btn_class: "btn--info"
-  - image_path: /assets/images/hota-video.png
-    title: "View Video"
-    excerpt: "An introductory video on the heritage of the air project"
-    url: https://www.youtube.com/watch?v=ylxuCnaFa0A
-    btn_label: "Watch"
+  - image_path: /assets/images/airplay.png
+    title: "Airplay"
+    excerpt: "Airplay is the blog for the Heritage of the Air research team."
+    url: https://heritageoftheair.org.au/blog/
+    btn_label: "Read"
+    btn_class: "btn--info"
+  - image_path: /assets/images/connecting.png
+    title: "Connecting the nation"
+    excerpt: "A digital repository connecting you to dispersed Aviation heritage collections"
+    url: https://collections.heritageoftheair.org.au/
+    btn_label: "Explore"
+    btn_class: "btn--info"
+  - image_path: /assets/images/Heritage-of-the-Air-2019.png
+    title: "Heritage of the Air 2019"
+    excerpt: "A conference reflecting on 100 years of aviation culture, history, heritage and design."
+    url: https://www.aicomos.com/
+    btn_label: "Explore"
+    btn_class: "btn--info"
+  - image_path: /assets/images/publications.png
+    title: "Publications"
+    excerpt: "Publications produced by members of the Heritage of the Air research team."
+    url: https://heritageoftheair.org.au/publications/
+    btn_label: "Read"
     btn_class: "btn--info"
   - image_path: /assets/images/passenger-cards.png
     title: "Passenger Cards"
@@ -40,12 +64,7 @@ feature_row:
     url: https://heritageoftheair.org.au/news/out-of-the-blue/
     btn_label: "Watch"
     btn_class: "btn--info"
-  - image_path: /assets/images/Heritage-of-the-Air-2019.png
-    title: "Heritage of the Air 2019"
-    excerpt: "A conference reflecting on 100 years of aviation culture, history, heritage and design."
-    url: https://www.aicomos.com/
-    btn_label: "Explore"
-    btn_class: "btn--info"
+
 ---
 
 Heritage of the Air is a three year [Australian Research Council](https://www.arc.gov.au/) Linkage project that investigates how aviation has transformed Australian society over the last 100 years. In the lead up to Australia’s centenary of civil aviation, our focus is on people rather than planes and we seek to tell the broader story of diverse Australian communities and aviation. The project aims to engage with the public’s enduring fascination with aviation through innovative analyses and interpretation of little known aviation heritage collections, to produce exciting exhibitions, accessible digital collections and heritage resources, as well as scholarly publications.

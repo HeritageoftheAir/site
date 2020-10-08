@@ -4,7 +4,12 @@ title: News
 permalink: /news/
 ---
 
-<br>
+### [Time Flies!](https://heritageoftheair.org.au/news/time_flies/)
+{: .profilenames}
+{: .center}
+#### Ongoing
+{: .center}
+Time Flies! is a traveling exhibition that will mark 100 years of civil aviation in Australia,highlighting unusual objects and stories that explore how aviation transformed everyday life in Austalia’s diverse communities.
 
 ### [Exhibition - Temora Aviation Museum](https://aviationmuseum.com.au/aviation-exhibits/)
 {: .profilenames}
