@@ -75,7 +75,7 @@ jobs:
       - name: rsync deployments
         uses: burnett01/rsync-deployments@4.1
         with:
-          switches: -rtzhnv
+          switches: -rtzh
           path: _site/
           remote_path: www
           remote_host: ${{ secrets.DEPLOY_HOST }}
