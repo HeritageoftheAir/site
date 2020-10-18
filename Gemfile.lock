@@ -112,9 +112,9 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 3.8)
   jekyll-feed (~> 0.6)
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll (~> 4.15)
   tzinfo-data
 
 RUBY VERSION
