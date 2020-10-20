@@ -11,7 +11,7 @@ permalink: /time_flies/
 
 ### Do you have an aviation story?
 <br>
-To develop the content around the exhibition we are now seeking submissions for stories/images regarding civil aviation. These may be featured on travelling banners, via a digital exhibition or on our Heritage of the Air social media channels. We are seeking crowdsourced stories to present a unique social history of aviation. We are looking for objects or collection items that you think represent or tell a story about Australian aviation- stories that are perhaps hidden, quirky, about ordinary people, and not widely known. You may even like to share your own personal story about aviation! Surprise us!
+To develop the content around the exhibition we are now seeking submissions of stories/images regarding civil aviation. These may be featured on travelling banners, via a digital exhibition or on our Heritage of the Air social media channels. We are seeking crowdsourced stories to present a unique social history of aviation. We are looking for objects or collection items that you think represent or tell a story about Australian aviation- stories that are perhaps hidden, quirky, about ordinary people, and not widely known. You may even like to share your own personal story about aviation! Surprise us!
 
 ### Share your aviation stories!
 <br>
