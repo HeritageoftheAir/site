@@ -22,5 +22,5 @@ If you have specific questions please email <a href="mailto:timeflies2021@gmail.
 [Submit Your Aviation Story](https://heritageoftheair.org.au/blog/time-flies/)
 {: .center}
 
-[![Save the date poster](/assets/images/time_flies_01.jpg){: .align-center}](/assets/pdfs/time_flies_01.pdf "Download PDF version of this poster")
+[![Save the date poster](/assets/images/time_flies_02.jpg){: .align-center}](/assets/pdfs/time_flies_02.pdf "Download PDF version of this poster")
 
