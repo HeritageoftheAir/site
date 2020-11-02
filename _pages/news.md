@@ -11,6 +11,13 @@ permalink: /news/
 {: .center}
 Time Flies! is a traveling exhibition that will mark 100 years of civil aviation in Australia,highlighting unusual objects and stories that explore how aviation transformed everyday life in Austalia’s diverse communities.
 
+### [Out of Africa: the biography of the ruins of the Southern Cross Minor](https://www.eventbrite.com.au/e/out-of-africa-the-biography-of-the-ruins-of-the-southern-cross-minor-tickets-126497947767)
+{: .profilenames}
+{: .center}
+#### 2 November 2020
+{: .center}
+Lead Chief Investigator of the 'Heritage of the Air' Linkage project Tracy Ireland discusses the story of the Southern Cross Minor.
+
 ### [Exhibition - Temora Aviation Museum](https://aviationmuseum.com.au/aviation-exhibits/)
 {: .profilenames}
 {: .center}
