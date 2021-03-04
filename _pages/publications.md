@@ -21,7 +21,7 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 [Tracy Ireland](http://www.heritageoftheair.org.au/profiles/TracyIreland/), [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) and [Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack/) (22 April 2020) [Home away from home: Reflecting on past airline collapses in Australia](https://theconversation.com/home-away-from-home-reflecting-on-past-airline-collapses-in-australia-136840) Accessed 28 May 2020. The Conversation.
 {: .left}  
 
-[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) (2020) [Trenches, trees and tributes: Air war heritage in a suburban park](www.tracesmagazine.com.au). Traces (12): 20–22.
+[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) (2020) - Trenches, trees and tributes: Air war heritage in a suburban park. [Traces](https://tracesmagazine.com.au/) (12): 20–22.
 {: .left}
 
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - [Empire of the air: the dawn of international aviation in Australia](https://www.naa.gov.au/blog/empire-air-dawn-international-aviation-australia), National Archives of Australia, 2 July 2020.
@@ -33,7 +33,7 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - Finding details in aircraft disasters: a crash course in history, [Traces](http://www.tracesmagazine.com.au/) no. 11 (2020), 19–21.
 {: .left}
 
-[Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) - [Hijacking Area Studies: Ethnographic approaches to Southeast Asian Airlines](https://doi.org/10.22801/svn.2020.12.2.225). SUVANNABHUMI, Volume 12, No 2, July 2020, pages 225-244. 
+[Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) - [Hijacking Area Studies: Ethnographic approaches to Southeast Asian Airlines](https://suvannabhumi.bufs.ac.kr/suvannabhumi/index.php?pCode=MN200005&pg=1&mode=view&idx=63738). SUVANNABHUMI, Volume 12, No 2, July 2020, pages 225-244. 
 {: .left}
 
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - The Empire Has an Answer: the Empire Air Training Scheme as Reported in the Australian Press. By Tony James Brady (book review), [The Aviation Historian](http://www.theaviationhistorian.com/index.htm) no. 31 (2020): 118–19.
@@ -44,26 +44,26 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - Anzac & Aviator. By Michael Molkentin (book review), [The Aviation Historian](http://www.theaviationhistorian.com/index.htm) no. 30 (2020): 117–18.
 
-[Phil Vabre](http://www.heritageoftheair.org.au/profiles/PhilVabre/) (2020) [From flying to spying](http://www.theaviationhistorian.com/). The Aviation Historian (30 and 31).
+[Phil Vabre](http://www.heritageoftheair.org.au/profiles/PhilVabre/) (2020) From flying to spying. [The Aviation Historian](http://www.theaviationhistorian.com/) (30 and 31).
 {: .left}
 
-[Phil Vabre](http://www.heritageoftheair.org.au/profiles/PhilVabre/) 2020 [Bombs on Australia: Aeradio in the bombing of Darwin, 19 February 1942](http://www.ahsa.org.au/publications.html) Aviation Heritage, Vol 51, No 3, September.
+[Phil Vabre](http://www.heritageoftheair.org.au/profiles/PhilVabre/) 2020 - Bombs on Australia: Aeradio in the bombing of Darwin, 19 February 1942 [Aviation Heritage](http://www.ahsa.org.au/publications.html), Vol 51, No 3, September.
 {: .left}
 
 ### 2019
 {: .profilenames}
 {: .center}
 
-[Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack/) (2019) [Clearing country and opening the skies: Indigenous workers in the aviation industry](http://www.australianstudies.eu/?p=1427). Journal of European Association for Studies of Australia 10(2): 49-57.
+[Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack/) (2019) - [Clearing country and opening the skies: Indigenous workers in the aviation industry](http://www.australianstudies.eu/?p=1427). Journal of European Association for Studies of Australia 10(2): 49-57.
 {: .left}
 
-[Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) (2019) [Spitfires sprouting in the Burmese Spring: The real-life quest for historic fantasy Aircraft in contemporary Myanmar](https://doi.org/10.1017/trn.2019.11). Trans-Regional and -National Studies of Southeast Asia: 1–12.
+[Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) (2019) - [Spitfires sprouting in the Burmese Spring: The real-life quest for historic fantasy Aircraft in contemporary Myanmar](https://doi.org/10.1017/trn.2019.11). Trans-Regional and -National Studies of Southeast Asia: 1–12.
 {: .left}
 
-[Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) and A. Ayuttacorn (2019) [Air male: Exploring flight attendant masculinities in North America and Thailand](https://doi.org/10.1080/14442213.2019.1634137). The Asia Pacific Journal of Anthropology.
+[Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) and A. Ayuttacorn (2019) - [Air male: Exploring flight attendant masculinities in North America and Thailand](https://doi.org/10.1080/14442213.2019.1634137). The Asia Pacific Journal of Anthropology.
 {: .left}
 
-[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) (2019) [Tragedy at Mascot: Sydney’s forgotten aviation disaster](https://www.rahs.org.au/). History 141:18–22.
+[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) (2019) - Tragedy at Mascot: Sydney’s forgotten aviation disaster. [History](https://www.rahs.org.au/) 141:18–22.
 {: .left}
 
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - [Unearthing airspace: the historical phenomenology of aviation artefacts](https://search.informit.com.au/documentSummary;dn=904431496252695;res=IELHSS), Australasian Historical Archaeology 37 (2019): 43–55.
@@ -91,10 +91,10 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 [Jane Ferguson](http://www.heritageoftheair.org.au/profiles/JaneFerguson/) - [Flight school for the spirit of Myanmar aerial nationalism and Burmese-Japanese cinematic collaboration in the 1930s](https://doi.org/10.1177/0967828X18793046). South East Asian Research, Volume 26, Issue 3, October 2018, pages 268-282.
 {: .left}
 
-[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - [Investigating the social history of aircraft accidents](https://www.academia.edu/38186814/Investigating_the_social_history_of_aircraft_accidents). History 136, June 2018, pp. 3–7.
+[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - Investigating the social history of aircraft accidents. [History](https://www.rahs.org.au/) 136, June 2018, pp. 3–7.
 {: .left}
 
-[Tracy Ireland](http://www.heritageoftheair.org.au/profiles/TracyIreland/) - [The Heritage of the Air Research Project](https://mavic.asn.au/insite/editions?ed=12732). INSITE Magazine. May-July 2018, p. 11. Museum of Victoria, Melbourne
+[Tracy Ireland](http://www.heritageoftheair.org.au/profiles/TracyIreland/) - The Heritage of the Air Research Project. [INSITE Magazine](https://mavic.asn.au/insite/editions?ed=12732). May-July 2018, p. 11. Museum of Victoria, Melbourne
 (accessed 1 June 2018).
 {: .left}
 
