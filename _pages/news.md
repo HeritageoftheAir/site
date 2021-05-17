@@ -4,6 +4,27 @@ title: News
 permalink: /news/
 ---
 
+### [Darwin's Air Way](https://archaeologyweek.org/events-list/darwins-air-war-qampa-with-aviation-archaeologist)
+{: .profilenames}
+{: .center}
+#### 20 May 2021 (Online)
+{: .center}
+During National Archaeology Week, UNE PhD candidate Daniel Leahy will be visiting and blogging daily on a number of WWII aviation and conflict archaeology sites around Darwin in Australia’s Northern Territory. To discuss the project, the blog, and the sites, Daniel will join the UNE Archaeology Society for a live Zoom Q&A session.
+
+### [Broome Aviation Archaeology](https://archaeologyweek.org/events-list/broome-aviation-archaeology-twenty-years-on-an-appraisal-of-results-and-directions-for-future-research)
+{: .profilenames}
+{: .center}
+#### 19 May 2021 (Online)
+{: .center}
+Broome Aviation Archaeology – Twenty Years On: An Appraisal of Results and Directions for Future Research. Presented by Dr Silvano Jung, Principal Archaeologist, Ellengowan Enterprises, Darwin NT.
+
+### [Aviation Archaeology Seminar](https://archaeologyweek.org/events-list/aviation-archaeology)
+{: .profilenames}
+{: .center}
+#### 17 May 2021
+{: .center}
+Three presenters will speak about the aviation archaeology sites they have been involved with throughout the Northern Territory.
+
 ### [Aviation Cultures](https://aviationcultures.org/)
 {: .profilenames}
 {: .center}
