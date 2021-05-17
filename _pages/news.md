@@ -9,7 +9,7 @@ permalink: /news/
 {: .center}
 #### Online events between 25-28 March 2021
 {: .center}
-Aviation Cultures is an inclusive, online conference where researchers and practitioners come together to share their knowledge and ideas of flight, and its place in history and society. Very few technologies have increased mobility over long-distances as much as aircraft have, but we are currently living in a world that is less connected by air than it has been for decades. Yet aviation has faced serious challenges before, and understanding this can help us navigate the present crisis, and prepare for the future of flight. Test.
+Aviation Cultures is an inclusive, online conference where researchers and practitioners come together to share their knowledge and ideas of flight, and its place in history and society. Very few technologies have increased mobility over long-distances as much as aircraft have, but we are currently living in a world that is less connected by air than it has been for decades. Yet aviation has faced serious challenges before, and understanding this can help us navigate the present crisis, and prepare for the future of flight.
 
 We invite experts, whether professionals, academics or just deeply knowledgeable, to help answer the questions of how aviation has changed the world, and how the world has changed aviation.
 
