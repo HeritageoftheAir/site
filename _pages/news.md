@@ -9,7 +9,7 @@ permalink: /news/
 {: .center}
 #### 20 May 2021 (Online)
 {: .center}
-During National Archaeology Week, UNE PhD candidate Daniel Leahy will be visiting and blogging daily on a number of WWII aviation and conflict archaeology sites around Darwin in Australia’s Northern Territory. To discuss the project, the blog, and the sites, Daniel will join the UNE Archaeology Society for a live Zoom Q&A session. Test.
+During National Archaeology Week, UNE PhD candidate Daniel Leahy will be visiting and blogging daily on a number of WWII aviation and conflict archaeology sites around Darwin in Australia’s Northern Territory. To discuss the project, the blog, and the sites, Daniel will join the UNE Archaeology Society for a live Zoom Q&A session.
 
 ### [Broome Aviation Archaeology](https://archaeologyweek.org/events-list/broome-aviation-archaeology-twenty-years-on-an-appraisal-of-results-and-directions-for-future-research)
 {: .profilenames}
