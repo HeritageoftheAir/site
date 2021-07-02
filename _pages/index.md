@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/time-flies.png
     title: "Time Flies!"
     excerpt: "A traveling exhibition that will mark 100 years of civil aviation in Australia."
-    url: https://heritageoftheair.org.au/time_flies/
+    url: https://heritageoftheair.org.au/timeflies/
     btn_label: "Explore"
     btn_class: "btn--info"
   - image_path: /assets/images/ebook.png
@@ -55,7 +55,7 @@ feature_row:
   - image_path: /assets/images/passenger-cards.png
     title: "Passenger Cards"
     excerpt: "Historical Incoming Passenger Cards to Australia"
-    url: http://hota.beneb.com/
+    url: https://hota.beneb.com/passengercards/
     btn_label: "View"
     btn_class: "btn--info"
   - image_path: /assets/images/out-of-the-blue.png
