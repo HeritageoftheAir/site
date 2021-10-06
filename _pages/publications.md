@@ -4,12 +4,30 @@ title: Publications
 permalink: /publications/
 ---
 
+### Connecting the Nation: Australia's Aviation Heritage
+{: .profilenames}
+{: .center}
+
+The Connecting the Nation: Australia’s Aviation Heritage report was compiled in 2015 to document the research undertaken throughout the duration of the project. This combined report includes: the scoping for this study of aviation heritage in Australia; a thematic analysis linked to collections, archives, people and places; key milestones and project outcomes; survey data regarding aviation heritage collections; and a discussion of the cultural significance and values of Australia’s aviation heritage. Prepared for Airservices Australia, this report is now available for the wider public to view.
+
+Please cite as: Ireland, T., Ashton, P., Hawcroft, R., Rahim, H. A., Wain, A., White, J., Whitelaw, M., 2015, [Connecting the Nation, Australia’s Aviation Heritage, Final Report prepared for Airservices Australia.](/assets/pdfs/Connecting the Nation 2015 Report.pdf)
+
+### 2022
+{: .profilenames}
+{: .center}
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (Accepted - publication 2022) - [Flying Blind: Bush Piloting in Australia’s Northern Territory and Papua New Guinea](https://search.informit.org/journal/nths). Northern Territory Historical Studies.
+
 ### 2021
 {: .profilenames}
 {: .center}
 
 [Paul Ashton](http://www.heritageoftheair.org.au/profiles/PaulAshton/) and [Tracy Ireland](http://www.heritageoftheair.org.au/profiles/TracyIreland/) - in press 2021 [Amazing Flights: A Century of Flying in Australia](http://halsteadpress.com.au/site/) Halstead Press.
 {: .left}
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2021) - [Flying Below the Radar: Civil Aviation Heritage in Australia’s Northern Territory](https://epress.lib.uts.edu.au/journals/index.php/phrj). Public History Review 28, pp. 22-40.
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2021) - [On a Wing and a Prayer: Displaying the History of the Northern Territory’s Flying Padres](https://search.informit.org/journal/nths). Northern Territory Historical Studies 32.
 
 Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/profiles/PhilVabre/)) in press [Celebrating the Astonishing Feats of Australian Civil Aviation 1894-2020](https://auspost.com.au/shop/product/celebrating-the-astonishing-feats-australian-civil-aviation-1894-2020-0318523).
 {: .left}
@@ -43,6 +61,14 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 {: .left}
 
 [Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - Anzac & Aviator. By Michael Molkentin (book review), [The Aviation Historian](http://www.theaviationhistorian.com/index.htm) no. 30 (2020): 117–18.
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) Film (2020) - [Skycraft Scout at the Darwin Aviation Museum](https://www.facebook.com/DarwinsAviationMuseum/videos/943656762747524/). Aviation Historical Society of Northern Territory, Archivist.
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) Film (2020) - [Coomalie: A Short Film](https://player.vimeo.com/video/458437109). Documentary, Historical Consultant.
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2020) featured in ABC news article: [Learning to fly in Australia is easier and cheaper than you might think, recreational pilots say](https://www.abc.net.au/news/2020-08-08/aviations-saving-grace-the-rise-of-bush-pilots/12483726).
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2020) - [Flying By the Seat of their Pants: Remembering the Northern Territory’s Ultralight Aircraft History through Restoration](https://australia.icomos.org/publications/historic-environment/). Historic Environment 32(3).
 
 [Phil Vabre](http://www.heritageoftheair.org.au/profiles/PhilVabre/) (2020) From flying to spying. [The Aviation Historian](http://www.theaviationhistorian.com/) (30 and 31).
 {: .left}
@@ -84,6 +110,13 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 [Brett Holman](http://www.heritageoftheair.org.au/profiles/BrettHolman/) and [Tim Sherratt](http://www.heritageoftheair.org.au/profiles/TimSherratt/) (7 November 2019) [HeritageoftheAir/hota-time](https://doi.org/10.5281/zenodo.3532159).
 {: .left}
 
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2019) - [The Barefoot Pilot](https://www.raa.asn.au/). Sports Pilot 3:43-48.
+{: .left}
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) Film (2019) - [The Sweet Little Note of the Engine](https://www.imdb.com/title/tt14661972/). Documentary aired on Channel 9, Historical Consultant. 
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2019) - [Min Scout](https://yearofaviationillustration.home.blog/2019/09/23/min-scout/) in [A Year of Aviation Illustration & Art](https://yearofaviationillustration.home.blog/).
+
 ### 2018
 {: .profilenames}
 {: .center}
@@ -100,3 +133,5 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2018) [Meaningful remembrance at Coomalie Airbase](https://issuu.com/anmmuseum/docs/signals124_spreads). Signals 24:33-37. National Maritime Museum, Sydney. 
 {: .left}
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2018) [Zen and the art of aircraft maintenance](https://heritageoftheair.org.au/blog/uncategorized/zen-and-the-art-of-aircraft-maintenance/) in [Airplay](https://heritageoftheair.org.au/blog/).
