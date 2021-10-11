@@ -115,7 +115,7 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) Film (2019) - [The Sweet Little Note of the Engine](https://www.imdb.com/title/tt14661972/). Documentary aired on Channel 9, Historical Consultant. 
 
-[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2019) - [Min Scout](https://yearofaviationillustration.home.blog/2019/09/23/min-scout/) in [A Year of Aviation Illustration & Art](https://yearofaviationillustration.home.blog/).
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2019) - [Min Scout](https://yearofaviationillustration.home.blog/2019/09/23/min-scout/) in [A Year of Aviation Illustration & Art](https://yearofaviationillustration.home.blog/)..
 
 ### 2018
 {: .profilenames}
