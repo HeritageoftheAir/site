@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-### [Aviation Cultures Spotlight: The Fabric of Aviation]()
+### [Aviation Cultures Spotlight: The Fabric of Aviation](https://aviationcultures.org/spotlight-the-fabric-of-aviation/)
 {: .profilenames}
 {: .center}
 #### 4 December 2021 (Online)
