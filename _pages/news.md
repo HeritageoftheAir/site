@@ -4,6 +4,25 @@ title: News
 permalink: /news/
 ---
 
+### [Aviation Cultures Spotlight: The Fabric of Aviation]()
+{: .profilenames}
+{: .center}
+#### 4 December 2021 (Online)
+{: .center}
+On Saturday 4 December 2021, at  9.45am Australian Eastern Daylight Saving Time (AEDT) the Aviation Cultures team will present the second of a series of Spotlight online events, and we’d like you to join us! 
+
+How, where and when? On Saturday, 4 December 2021, 9.45 am AEDT. The event should run for no more than 2 hours 15 minutes.
+
+Further details and registeration [available here](https://aviationcultures.org/spotlight-the-fabric-of-aviation/).
+
+#### Speakers:
+
+<b>Dr Lisa Hackett</b>, Second World War Female Pilots and Their Uniforms.
+
+<b>Dr Pru Black</b>, Never a Mere Fastener: The Rivet in Aviation and Cultural History.
+
+<b>Madelyn Shaw</b>, talking on the collecting of aviation textiles and clothing.
+
 ### [Darwin's Air Way](https://archaeologyweek.org/events-list/darwins-air-war-qampa-with-aviation-archaeologist)
 {: .profilenames}
 {: .center}
