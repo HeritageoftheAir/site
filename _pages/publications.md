@@ -16,6 +16,14 @@ Please cite as: Ireland, T., Ashton, P., Hawcroft, R., Rahim, H. A., Wain, A., W
 {: .profilenames}
 {: .center}
 
+[AUSTRALIA ICOMOS](https://australia.icomos.org/publications/historic-environment/) - [Air Memories: New perspectives on Aviation Heritage](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historic Environment Vol 32 No 3, 2020.
+
+[Tracy Ireland](http://www.heritageoftheair.org.au/profiles/TracyIreland/), [Ashley Harrison](http://www.heritageoftheair.org.au/profiles/AshleyHarrison/) and [Sally Brockwell](http://www.heritageoftheair.org.au/profiles/SallyBrockwell/) - [Materialities, mobilities and multiple modernities: Exploring new approaches to Australia’s ‘heritage of the air’](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historic Environment, Vol 32 No 3, pp. 14-31.
+
+[Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan) - [Flying by the seat of their pants: Remembering the Northern Territory’s ultralight aircraft history through restoration](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historic Environment, Vol 32 No 3, pp. 88-100.
+
+[Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack) - [The future is disturbing our present: The ecopolitics of aviation](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historica Environment, Vol 32 No 3, pp. 112-123.
+
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (Accepted - publication 2022) - [Flying Blind: Bush Piloting in Australia’s Northern Territory and Papua New Guinea](https://search.informit.org/journal/nths). Northern Territory Historical Studies.
 
 ### 2021
