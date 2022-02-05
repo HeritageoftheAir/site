@@ -22,7 +22,7 @@ Please cite as: Ireland, T., Ashton, P., Hawcroft, R., Rahim, H. A., Wain, A., W
 
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan) - [Flying by the seat of their pants: Remembering the Northern Territory’s ultralight aircraft history through restoration](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historic Environment, Vol 32 No 3, pp. 88-100.
 
-[Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack) - [The future is disturbing our present: The ecopolitics of aviation](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historica Environment, Vol 32 No 3, pp. 112-123.
+[Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack) - [The future is disturbing our present: The ecopolitics of aviation](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historic Environment, Vol 32 No 3, pp. 112-123.
 
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (Accepted - publication 2022) - [Flying Blind: Bush Piloting in Australia’s Northern Territory and Papua New Guinea](https://search.informit.org/journal/nths). Northern Territory Historical Studies.
 
