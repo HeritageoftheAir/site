@@ -4,6 +4,20 @@ title: News
 permalink: /news/
 ---
 
+### [Aviation Art Exhibition](https://clairegrantart.com/)
+{: .profilenames}
+{: .center}
+#### 1-30 July 2022 Tuesday-Saturday 10am-4pm
+{: .center}
+Artist: Claire Grant
+
+Huw Davies Gallery
+Photo Access Canberra
+30 Manuka Circuit, Griffith ACT 2603
+
+Phone: 02 62957810
+
+
 ### [Aviation Cultures Spotlight: The Fabric of Aviation](https://aviationcultures.org/spotlight-the-fabric-of-aviation/)
 {: .profilenames}
 {: .center}

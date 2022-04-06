@@ -143,3 +143,25 @@ Australia Post (assisted by [Phil Vabre](http://www.heritageoftheair.org.au/prof
 {: .left}
 
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (2018) [Zen and the art of aircraft maintenance](https://heritageoftheair.org.au/blog/uncategorized/zen-and-the-art-of-aircraft-maintenance/) in [Airplay](https://heritageoftheair.org.au/blog/).
+
+### 2015
+{: .profilenames}
+{: .center}
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2015)- [Ulm’s trans-Pacific airline](https://pateblog.nma.gov.au/2015/07/01/ulms-trans-pacific-airline/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2015)- [Charles Ulm pilots ‘Faith in Australia’: Wakefield Oil and airmail](https://pateblog.nma.gov.au/2015/06/22/charles-ulm-pilots-faith-in-australia-wakefield-oil-and-airmail-2/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2015)- [‘Southern Cross’ lands in Canberra: aerial politics](https://pateblog.nma.gov.au/2015/06/15/southern-cross-lands-in-canberra-aerial-politics-2/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2015)- [‘Southern Cross’ arrives in Brisbane: the nation celebrates](https://pateblog.nma.gov.au/2015/06/10/southern-cross-arrives-in-brisbane-the-nation-celebrates-2/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2015)- [‘Southern Cross’ lands in Honolulu: Crossing the Pacific](https://pateblog.nma.gov.au/2015/06/01/southern-cross-lands-in-honolulu-crossing-the-pacific-2/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
+
+### 2014
+{: .profilenames}
+{: .center}
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2014)- [Getting the flying kangaroo off the ground](https://pateblog.nma.gov.au/2014/11/16/getting-the-flying-kangaroo-off-the-ground/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
+
+[Jennifer Wilson](http://www.heritageoftheair.org.au/profiles/JenniferWilson/) (2014)- [‘Par avion’ – French for ‘by airmail’](https://pateblog.nma.gov.au/2014/07/09/par-avion-french-for-by-airmail/). The People and Environment Blog, [National Museum of Australia](https://www.nma.gov.au/). 
