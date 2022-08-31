@@ -4,6 +4,16 @@ title: News
 permalink: /news/
 ---
 
+### [Aviation Cultures Mark VI Conference](https://aviationcultures.org/aviation-cultures-mkvi/)
+{: .profilenames}
+{: .center}
+#### 15-17 July 2022
+{: .center}
+On-line from University of Southern Queensland, Toowoomba, Queensland
+
+Aviation Cultures is an inclusive, online conference series where researchers and practitioners come together to share their knowledge and ideas of flight, and its place in history and society. Very few technologies have increased mobility over long-distances as much as aircraft have, but we are currently living in a world that is less connected by air than it has been for decades. Yet aviation has faced serious challenges before, and understanding this can help us navigate the present crisis, and prepare for the future of flight.
+
+
 ### [Aviation Art Exhibition](https://clairegrantart.com/)
 {: .profilenames}
 {: .center}

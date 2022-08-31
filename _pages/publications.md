@@ -12,6 +12,12 @@ The Connecting the Nation: Australia’s Aviation Heritage report was compiled i
 
 Please cite as: Ireland, T., Ashton, P., Hawcroft, R., Rahim, H. A., Wain, A., White, J., Whitelaw, M., 2015, [Connecting the Nation, Australia’s Aviation Heritage, Final Report prepared for Airservices Australia.](/assets/pdfs/Connecting the Nation 2015 Report.pdf)
 
+### 2023
+{: .profilenames}
+{: .center}
+
+[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - Anti-G suits and airpower in World War II in N. Townsend, K. Pandey and J. Pendlebury (eds) Australian Reflections of Global Air Power: Past, Present, Future. Routledge, London.
+
 ### 2022
 {: .profilenames}
 {: .center}
@@ -25,6 +31,12 @@ Please cite as: Ireland, T., Ashton, P., Hawcroft, R., Rahim, H. A., Wain, A., W
 [Prudence Black](http://www.heritageoftheair.org.au/profiles/PrudenceBlack) - [The future is disturbing our present: The ecopolitics of aviation](https://australia.icomos.org/publications/historic-environment/historic-environment-vol-32-no-3-2020-air-memories-new-perspectives-on-aviation-heritage/). Historic Environment, Vol 32 No 3, pp. 112-123.
 
 [Fiona Shanahan](http://www.heritageoftheair.org.au/profiles/FionaShanahan/) (Accepted - publication 2022) - [Flying Blind: Bush Piloting in Australia’s Northern Territory and Papua New Guinea](https://search.informit.org/journal/nths). Northern Territory Historical Studies.
+
+[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - [Emulating the “pucker factor”: faith, fidelity and flight simulation in Australia, 1936–58](https://journals.sagepub.com/doi/10.1177/00225266221114516). Journal of Transport History, pp. 1-24.  
+
+[Peter hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - The elusive A63: the Link Celestial Navigation Trainer in RAAF service. [Aviation Heritage](https://www.ahsa.org.au/wp/publications).
+
+[Peter Hobbins](http://www.heritageoftheair.org.au/profiles/PeterHobbins/) - Why did he fly? [Traces](https://tracesmagazine.com.au/).
 
 ### 2021
 {: .profilenames}
