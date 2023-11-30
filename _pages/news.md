@@ -4,6 +4,19 @@ title: News
 permalink: /news/
 ---
 
+### [Aviation Archaeology MK.II](https://aviationcultures.org/)
+{: .profilenames}
+{: .center}
+#### 17 February 2024
+{: .center)
+Online on Zoom
+
+On 17 February 2024, we will be bringing you our next Spotlight event: Aviation Archaeology Mk. II.
+
+At this Spotlight we will bring together six world renowned speakers and aviation archaeologists to present live, via Zoom, followed by a audience Q&A session.
+
+More details to come; in the meantime, save the date!
+
 ### [Aviation Cultures Mark VI Conference](https://aviationcultures.org/aviation-cultures-mkvi/)
 {: .profilenames}
 {: .center}
